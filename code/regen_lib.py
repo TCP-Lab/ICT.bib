@@ -12,21 +12,22 @@ from pathlib import Path
 import os
 from copy import copy
 
-TEMPLATE = """{title}
+TEMPLATE = """##{title}
 
->> By {authors} ({year})
+> By {authors} ({year})
 
-Macroarea: "{scope}"
-Topic: {target}
-Transportome considered: {transportome}
+- **Macroarea**: "{scope}"
+- **Topic**: {target}
+- **Transportome considered**: {transportome}
 
-References:
-    Journal: {journal}
-    DOI: {doi}
-    PMID: {pmid}
+- References:
+  - Journal: {journal}
+  - DOI: {doi}
+  - PMID: {pmid}
 
-Abstract:
-    {abstract}
+### Abstract
+
+{abstract}
 """
 
 README_TEMPLATE = """# Index
@@ -54,11 +55,20 @@ def main(
     pmid_col: str = "PMID",
 ):
     print(f"Reading csv file {bib_file}...")
-    with bib_file.open("r") as stream:
-        parser = bibx.bparser.BibTexParser()
-        parser.customization = bibx.customization.homogenize_latex_encoding
 
-        bib_data = bibx.load(stream)
+    def customize(record):
+        #record = bibx.customization.homogenize_latex_encoding(record)
+        record = bibx.customization.convert_to_unicode(record)
+
+        return record
+
+    with bib_file.open("r") as stream:
+        parser = bibx.bparser.BibTexParser(
+            common_strings=True,
+            customization=customize
+        )
+
+        bib_data = bibx.load(stream, parser)
 
     print("Taking out PMIDs...")
     available_pmids = []
@@ -116,7 +126,7 @@ def main(
             # Save the bib files...
             for single_bib in bibs:
                 # ... as single files...
-                filename = "{}.txt".format(single_bib["title"])
+                filename = "{}.md".format(single_bib["title"])
                 # Replace weird {}
                 filename = filename.replace("/", "").replace("}", "").replace("{", "")
 

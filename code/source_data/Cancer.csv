@@ -1,41 +1,41 @@
-SCOPE,TARGET,YEAR,TRANSPORTOME,AUTHORS,PMID,Ref.
-Apoptosis ,Life/death decisions in cancer cells ,2014,ion channels,Bortner C.D. and Cidlowski J.A.,24493752,
-Apoptosis ,Regulation of apoptosis in cancer cells,2015,ion channels,Kondratskyi A. […] Prevarskaya N.,25450339,
-Brain Tumor,Perivascular glioma invasion,2016,ion channels,Thompson E.G. and Sontheimer H.,27424110,
-Brain Tumor,Glioma Malignancy,2021,ion channels,Catacuzzeno L […] Franciolini F.,32930879,
-Breast Cancer,Effect of TME,2021,ion channels,Ouadid-Ahidouch H. […] Ahidouch A.,32761457,
-Breast Cancer,Interaction with the acidic TME,2021,ICTs,Boedtkjer E.,34291319,
-Cancer Progression,Cancer cell migration and invasion,2014,ICTs,Schwab A. and Stock C.,24493750,
-Cancer Progression,Tumor vascularization,2014,ICTs,Fiorio Pla A. and Munaron L.,24493751,
-Cancer Progression,Metastasis,2014,ICTs,Djamgoz M.B.A. […] Schwab A.,24493741,
-Cancer Progression,Tumor development,2015,ICTs,Litan A. and Langhans S. A.,25852478,
-Cancer Progression,Angiogenesis,2015,ICTs,Munaron L.,25450338,
-Cancer Progression,Metastasis,2015,ICTs,Stock C. and Schwab A.,25445667,
-Cancer Progression,Angiogenesis and metastasis,2016,ICTs,Martial S.,26791487,
-Cancer Progression,Circulating Tumor Cells,2022,ICTs,Stock C.,35137308,
-Cancer Therapy,Chemosensitivity,2004,ICTs,Huang Y. […] Sadée W.,15205344,
-Cancer Therapy,Therapeutic potential,2014,ion channels,Lang F. and Stournaras C.,24493756,
-Cancer Therapy,Chemoresistance,2014,ICTs,Hoffmann E.K. and Lambert I.H.,24493757,
-Cancer Therapy,Cancer biomarkers,2015,ICTs,Lastraioli E. […] Arcangeli A.,25542783,
-Cancer Therapy,Chemotherapy-induced cardiotoxicity,2021,ICTs,Uddin M.E. […] Sparreboom A.,34237188,
-Cancer Therapy,Ion channel inhibitors as anticancer therapeutics,2022,ion channels,Capatina A.L. […] Brackenbury W. ,32865696,
-Cancer Therapy,Radio-therapy,2022,ICTs,Roth B. and Huber S.M.,32737751,
-Cancer Therapy,Therapeutic potential,2022,ICTs,Djamgoz M.B.A.,35018530,
-Cancer Therapy,Therapeutic potential,2022,ICTs,Ramírez A. [...] Camacho J.,32715321,
-GI cancer,Colorectal cancer (CRC),2019,ion channels,Anderson K.J. […] Scott P.M.,31636470,
-GI cancer,Hepatocellular carcinoma and hepatobiliary cancer,2019,ICTs,Alonso-Peña M. […] Marin J.J.,31486734,
-GI cancer,Gastric cancer,2020,ICTs,Yuan D. […] Liu X.,32104192,
-GI cancer,Colorectal cancer (CRC),2020,ICTs,Zhang M. […] Liu X.,32662230,
-GI cancer,Cholangiocarcinoma,2020,transporters,Marin J.J.G. […] Lozano E.,32098199,
-GI cancer,Gastric cancer,2021,ICTs,Chen J. […] Liu X. ,33856653,
-GI cancer,"Esophageal, liver and colorectal cancer",2021,ICTs,Stock C.,32875386,
-Head and Neck,Clinical potential,2021,ion channels,Del-Río-Ibisate N. […] García-Pedrero J.M.,32789787,
-Lung Cancer,Cancer progression and therapy,2021,ion channels,Bulk E. […] Schwab A.,32772273,
-Lung Cancer,Cancer progression and therapy,2021,ion channels,Zhang L. […] Xiong Y.,34610420,
-Melanoma,Cancer progression and therapy,2021,ICTs,Böhme I. […] Bosserhoff A.K.,32737752,
-Ovarian Cancer,Clinical potential,2013,ion channels and AQP,Frede J. […] Djamgoz M.B.A.,23683551,
-Ovarian Cancer,Pathomechanisms and Pharmacological Treatment,2021,ion channels,Altamura C. […] Desaphy J.F.,33562306,
-Pancreatic Cancer,PDAC and healthy pancreas,2020,ion channels,Schnipper J. […] Ouadid-Ahidouch H.,33178018,
-Pancreatic Cancer,PDAC progression and therapy,2020,ion channels,Hofschröer  V. […] Schwab A.,33841132,
-Pancreatic Cancer,Hallmark of PDAC,2021,ICT,Ling Q. and Kalthoff H.,32770395,
-Prostate Cancer,Cell population-specific screening,2021,ion channels,Farfariello V. […] Gkika D.,32737754,
+SCOPE,TARGET,YEAR,TRANSPORTOME,PMID
+Apoptosis,Life/death decisions in cancer cells ,2014,Ion Channels,24493752
+Apoptosis,Regulation of apoptosis in cancer cells,2015,Ion Channels,25450339
+Brain Tumor,Perivascular glioma invasion,2016,Ion Channels,27424110
+Brain Tumor,Glioma Malignancy,2021,Ion Channels,32930879
+Breast Cancer,Effect of TME,2021,Ion Channels,32761457
+Breast Cancer,Interaction with the acidic TME,2021,ICTs,34291319
+Cancer Progression,Cancer cell migration and invasion,2014,ICTs,24493750
+Cancer Progression,Tumor vascularization,2014,ICTs,24493751
+Cancer Progression,Metastasis,2014,ICTs,24493741
+Cancer Progression,Tumor development,2015,ICTs,25852478
+Cancer Progression,Angiogenesis,2015,ICTs,25450338
+Cancer Progression,Metastasis,2015,ICTs,25445667
+Cancer Progression,Angiogenesis and metastasis,2016,ICTs,26791487
+Cancer Progression,Circulating Tumor Cells,2022,ICTs,35137308
+Cancer Therapy,Chemosensitivity,2004,ICTs,15205344
+Cancer Therapy,Therapeutic potential,2014,Ion Channels,24493756
+Cancer Therapy,Chemoresistance,2014,ICTs,24493757
+Cancer Therapy,Cancer biomarkers,2015,ICTs,25542783
+Cancer Therapy,Chemotherapy-induced cardiotoxicity,2021,ICTs,34237188
+Cancer Therapy,Ion channel inhibitors as anticancer therapeutics,2022,Ion Channels,32865696
+Cancer Therapy,Radio-therapy,2022,ICTs,32737751
+Cancer Therapy,Therapeutic potential,2022,ICTs,35018530
+Cancer Therapy,Therapeutic potential,2022,ICTs,32715321
+GI cancer,Colorectal cancer (CRC),2019,Ion Channels,31636470
+GI cancer,Hepatocellular carcinoma and hepatobiliary cancer,2019,ICTs,31486734
+GI cancer,Gastric cancer,2020,ICTs,32104192
+GI cancer,Colorectal cancer (CRC),2020,ICTs,32662230
+GI cancer,Cholangiocarcinoma,2020,Transporters,32098199
+GI cancer,Gastric cancer,2021,ICTs,33856653
+GI cancer,"Esophageal, liver and colorectal cancer",2021,ICTs,32875386
+Head and Neck,Clinical potential,2021,Ion Channels,32789787
+Lung Cancer,Cancer progression and therapy,2021,Ion Channels,32772273
+Lung Cancer,Cancer progression and therapy,2021,Ion Channels,34610420
+Melanoma,Cancer progression and therapy,2021,ICTs,32737752
+Ovarian Cancer,Clinical potential,2013,Ion Channels and AQP,23683551
+Ovarian Cancer,Pathomechanisms and Pharmacological Treatment,2021,Ion Channels,33562306
+Pancreatic Cancer,PDAC and healthy pancreas,2020,Ion Channels,33178018
+Pancreatic Cancer,PDAC progression and therapy,2020,Ion Channels,33841132
+Pancreatic Cancer,Hallmark of PDAC,2021,ICTs,32770395
+Prostate Cancer,Cell population-specific screening,2021,Ion Channels,32737754

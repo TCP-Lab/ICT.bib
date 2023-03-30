@@ -10,12 +10,12 @@
   - Cancer Progression: [Ion transport and cancer: from initiation to metastasis](https://doi.org/10.1098/RSTB.2013.0092) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493741))
   - Cancer Progression: [Functional properties of ion channels and transporters in tumour vascularization](https://doi.org/10.1098/RSTB.2013.0103) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493751))
   - Cancer Progression: [Ion channels and transporters in tumour cell migration and invasion](https://doi.org/10.1098/RSTB.2013.0102) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493750))
-  - Apoptosis : [Ion channels and apoptosis in cancer](https://doi.org/10.1098/RSTB.2013.0104) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493752))
+  - Apoptosis: [Ion channels and apoptosis in cancer](https://doi.org/10.1098/RSTB.2013.0104) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493752))
 - 2015:
   - Cancer Progression: [Ion channels and transporters in metastasis](https://doi.org/10.1016/J.BBAMEM.2014.11.012) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25445667))
   - Cancer Progression: [Systems biology of ion channels and transporters in tumor angiogenesis: An omics view](https://doi.org/10.1016/J.BBAMEM.2014.10.031) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25450338))
   - Cancer Progression: [Cancer as a channelopathy: ion channels and pumps in tumor development and progression](https://doi.org/10.3389/FNCEL.2015.00086) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25852478))
-  - Apoptosis : [Ion channels in the regulation of apoptosis](https://doi.org/10.1016/J.BBAMEM.2014.10.030) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25450339))
+  - Apoptosis: [Ion channels in the regulation of apoptosis](https://doi.org/10.1016/J.BBAMEM.2014.10.030) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25450339))
   - Cancer Therapy: [Ion channel expression as promising cancer biomarker](https://doi.org/10.1016/J.BBAMEM.2014.12.016) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25542783))
 - 2016:
   - Cancer Progression: [Involvement of ion channels and transporters in carcinoma angiogenesis and metastasis](https://doi.org/10.1152/AJPCELL.00218.2015) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26791487))

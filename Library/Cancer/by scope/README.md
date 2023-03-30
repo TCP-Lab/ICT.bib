@@ -1,6 +1,6 @@
 # Index
 
-- Apoptosis :
+- Apoptosis:
   - (2015): [Ion channels in the regulation of apoptosis](https://doi.org/10.1016/J.BBAMEM.2014.10.030) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25450339))
   - (2014): [Ion channels and apoptosis in cancer](https://doi.org/10.1098/RSTB.2013.0104) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493752))
 - Brain Tumor:
