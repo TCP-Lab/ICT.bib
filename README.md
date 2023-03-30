@@ -1,21 +1,8 @@
-<style>
-    .container {
-    display: flex;
-    align-items: center;
-    justify-content: center
-    }
-</style>
+<p align="center">
+    <img src="./code/logo-small.png" width = 250>
+</p>
 
-
-<div class="container">
-    <div class="text">
-        <font size="+4"><b>ICT.bib</b></font>
-    </div>
-    <div class="image">
-        <img src="./code/logo-small.png" width = 200>
-    </div>
-</div>
-
+# ICT.bib
 
 This repository attempts to collect the current reviews regarding the Transportome, defined as the collection of all proteins present in the cell membrane surface that allow the passage of molecules through the membrane itself.
 
