@@ -2,7 +2,7 @@
     <img src="./code/logo-small.png" width = 250>
 </p>
 
-# ICT.bib
+# ICT::bib
 
 This repository attempts to collect the current reviews regarding the Transportome, defined as the collection of all proteins present in the cell membrane surface that allow the passage of molecules through the membrane itself.
 
