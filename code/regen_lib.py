@@ -12,7 +12,7 @@ from pathlib import Path
 import os
 from copy import copy
 
-TEMPLATE = """##{title}
+TEMPLATE = """## {title}
 
 > By {authors} ({year})
 
@@ -116,6 +116,17 @@ def main(
 
             # Get the corresponding .bib entries.
             bibs = [x for x in available_bibs if x["pmid"] in pmid_set]
+
+            # Get rid of potential duplicates
+            bib_pool = []
+            clean_bibs = []
+            for item in bibs:
+                if item["pmid"] not in bib_pool:
+                    bib_pool.append(item["pmid"])
+                    clean_bibs.append(item)
+            
+            bibs = clean_bibs
+
             # If the asserts above passed, this must be correct
             print([x["pmid"] for x in bibs])
             print(pmid_set)
@@ -129,6 +140,12 @@ def main(
                 filename = "{}.md".format(single_bib["title"])
                 # Replace weird {}
                 filename = filename.replace("/", "").replace("}", "").replace("{", "")
+
+                # Check for optional fields
+                optional = ["journal"]
+                for field in optional:
+                    if field not in single_bib:
+                        print(f"WARNING: Entry {single_bib['pmid']} does not have {field}")
 
                 with (output_dir / folder_name / value / filename).open(
                     "w+"
@@ -149,7 +166,8 @@ def main(
                             transportome=table["TRANSPORTOME"][
                                 table[pmid_col] == single_bib["pmid"]
                             ].to_list()[0],
-                            journal=single_bib["journal"],
+                            # The following are optional
+                            journal=single_bib.get("journal", "N/A"),
                             doi=single_bib["doi"],
                             pmid=single_bib["pmid"],
                             abstract=single_bib["abstract"]

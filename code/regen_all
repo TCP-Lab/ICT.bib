@@ -23,4 +23,8 @@ echo "Regenerating 'Non Cancer' library..."
 mkdir "../Library/Non cancer"
 ./regen_lib.py ./source_data/library.bib ./source_data/NonCancer.csv "../Library/Non cancer/"
 
+echo "Regenerating 'Articles' library..."
+mkdir "../Library/Articles"
+./regen_lib.py ./source_data/library.bib ./source_data/articles.csv "../Library/Articles/"
+
 echo "Done!"
