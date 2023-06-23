@@ -1,4 +1,4 @@
-##Ovarian cancer: Ion channel and aquaporin expression as novel targets of clinical potential
+## Ovarian cancer: Ion channel and aquaporin expression as novel targets of clinical potential
 
 > By Frede, Julia and Fraser, Scott P. and Oskay-Özcelik, Gülten and Hong, Yeosun and Ioana Braicu, E. and Sehouli, Jalid and Gabra, Hani and Djamgoz, Mustafa B.A. (2013)
 

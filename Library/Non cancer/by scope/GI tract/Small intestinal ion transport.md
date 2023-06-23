@@ -1,4 +1,4 @@
-##Small intestinal ion transport
+## Small intestinal ion transport
 
 > By Ghishan, Fayez K. and Kiela, Pawel R. (2012)
 

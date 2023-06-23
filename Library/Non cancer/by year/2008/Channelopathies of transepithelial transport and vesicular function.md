@@ -1,4 +1,4 @@
-##Channelopathies of transepithelial transport and vesicular function
+## Channelopathies of transepithelial transport and vesicular function
 
 > By Hübner, Christian A. and Jentsch, Thomas J. (2008)
 

@@ -1,4 +1,4 @@
-##Ion Channels in Glioma Malignancy
+## Ion Channels in Glioma Malignancy
 
 > By Catacuzzeno, Luigi and Sforna, Luigi and Esposito, Vincenzo and Limatola, Cristina and Franciolini, Fabio (2021)
 

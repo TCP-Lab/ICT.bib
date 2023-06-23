@@ -1,4 +1,4 @@
-##New insights into fish ion regulation and mitochondrion-rich cells
+## New insights into fish ion regulation and mitochondrion-rich cells
 
 > By Hwang, Pung Pung and Lee, Tsung Han (2007)
 

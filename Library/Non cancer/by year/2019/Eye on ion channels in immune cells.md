@@ -1,4 +1,4 @@
-##Eye on ion channels in immune cells
+## Eye on ion channels in immune cells
 
 > By Feske, Stefan and Concepcion, Axel R. and Coetzee, William A. (2019)
 

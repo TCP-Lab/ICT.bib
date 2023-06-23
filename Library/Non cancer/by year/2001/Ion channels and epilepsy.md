@@ -1,4 +1,4 @@
-##Ion channels and epilepsy
+## Ion channels and epilepsy
 
 > By H, Lerche and K, Jurkat-Rott and F, Lehmann-Horn (2001)
 

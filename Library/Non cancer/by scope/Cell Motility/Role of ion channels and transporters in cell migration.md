@@ -1,4 +1,4 @@
-##Role of ion channels and transporters in cell migration
+## Role of ion channels and transporters in cell migration
 
 > By Schwab, Albrecht and Fabian, Anke and Hanley, Peter J. and Stock, Christian (2012)
 

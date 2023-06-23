@@ -1,4 +1,4 @@
-##Roles of ion transport in control of cell motility
+## Roles of ion transport in control of cell motility
 
 > By Stock, Christian and Ludwig, Florian T. and Hanley, Peter J. and Schwab, Albrecht (2013)
 

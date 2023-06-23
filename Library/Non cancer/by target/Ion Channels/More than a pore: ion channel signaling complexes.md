@@ -1,4 +1,4 @@
-##More than a pore: ion channel signaling complexes
+## More than a pore: ion channel signaling complexes
 
 > By Lee, Amy and Fakler, Bernd and Kaczmarek, Leonard K. and Isom, Lori L. (2014)
 

@@ -1,4 +1,4 @@
-##Targeting ion channels for the treatment of lung cancer
+## Targeting ion channels for the treatment of lung cancer
 
 > By Zhang, Liqin and Bing, Shuya and Dong, Mo and Lu, Xiaoqiu and Xiong, Yuancheng (2021)
 

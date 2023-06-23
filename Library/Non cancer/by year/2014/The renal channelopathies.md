@@ -1,4 +1,4 @@
-##The renal channelopathies
+## The renal channelopathies
 
 > By Loudon, K. W. and Fry, A. C. (2014)
 

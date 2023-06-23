@@ -1,4 +1,4 @@
-##Ion Transporters and Osmoregulation in the Kidney of Teleost Fishes as a Function of Salinity
+## Ion Transporters and Osmoregulation in the Kidney of Teleost Fishes as a Function of Salinity
 
 > By Takvam, Marius and Wood, Chris M. and Kryvi, Harald and Nilsen, Tom O. (2021)
 

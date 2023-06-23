@@ -1,4 +1,4 @@
-##Ion channels and transporters of the retinal pigment epithelium
+## Ion channels and transporters of the retinal pigment epithelium
 
 > By Reichhart, Nadine and Strauß, Olaf (2014)
 

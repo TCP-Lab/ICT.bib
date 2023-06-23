@@ -1,4 +1,4 @@
-##Ion transport in the intestine
+## Ion transport in the intestine
 
 > By Kiela, Pawel R. and Ghishan, Fayez K. (2009)
 

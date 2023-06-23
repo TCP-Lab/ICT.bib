@@ -1,4 +1,4 @@
-##A role for ion channels in perivascular glioma invasion
+## A role for ion channels in perivascular glioma invasion
 
 > By Thompson, Emily G. and Sontheimer, Harald (2016)
 

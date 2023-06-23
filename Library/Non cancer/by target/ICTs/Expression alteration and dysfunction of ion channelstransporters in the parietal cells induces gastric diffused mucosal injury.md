@@ -1,4 +1,4 @@
-##Expression alteration and dysfunction of ion channels/transporters in the parietal cells induces gastric diffused mucosal injury
+## Expression alteration and dysfunction of ion channels/transporters in the parietal cells induces gastric diffused mucosal injury
 
 > By Zhao, Yingying and Deng, Zilin and Ma, Zhiyuan and Zhang, Minglin and Wang, Hu and Tuo, Biguang and Li, Taolang and Liu, Xuemei (2022)
 

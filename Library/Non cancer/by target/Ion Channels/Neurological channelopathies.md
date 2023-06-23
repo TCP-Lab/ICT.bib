@@ -1,4 +1,4 @@
-##Neurological channelopathies
+## Neurological channelopathies
 
 > By Kullmann, Dimitri M. (2010)
 

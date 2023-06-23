@@ -1,4 +1,4 @@
-##Role of renal transporters and novel regulatory interactions in the TAL that control blood pressure
+## Role of renal transporters and novel regulatory interactions in the TAL that control blood pressure
 
 > By Graham, Lesley A. and Dominiczak, Anna F. and Ferreri, Nicholas R. (2017)
 

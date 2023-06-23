@@ -1,4 +1,4 @@
-##Function and spatial distribution of ion channels and transporters in cell migration
+## Function and spatial distribution of ion channels and transporters in cell migration
 
 > By Schwab, Albrecht (2001)
 

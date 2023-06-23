@@ -1,4 +1,4 @@
-##Regulation of transport in the connecting tubule and cortical collecting duct
+## Regulation of transport in the connecting tubule and cortical collecting duct
 
 > By Staruschenko, Alexander (2012)
 

@@ -1,4 +1,4 @@
-##Ion channels in the regulation of apoptosis
+## Ion channels in the regulation of apoptosis
 
 > By Kondratskyi, Artem and Kondratska, Kateryna and Skryma, Roman and Prevarskaya, Natalia (2015)
 

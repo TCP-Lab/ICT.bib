@@ -1,4 +1,4 @@
-##Ion channels in innate and adaptive immunity
+## Ion channels in innate and adaptive immunity
 
 > By Feske, Stefan and Wulff, Heike and Skolnik, Edward Y. (2015)
 

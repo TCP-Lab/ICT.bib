@@ -1,4 +1,4 @@
-##Ion channels and transporters in the development of drug resistance in cancer cells
+## Ion channels and transporters in the development of drug resistance in cancer cells
 
 > By Hoffmann, Else K. and Lambe, Ian H. (2014)
 

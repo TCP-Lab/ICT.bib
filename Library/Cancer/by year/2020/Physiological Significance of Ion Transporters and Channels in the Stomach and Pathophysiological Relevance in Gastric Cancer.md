@@ -1,4 +1,4 @@
-##Physiological Significance of Ion Transporters and Channels in the Stomach and Pathophysiological Relevance in Gastric Cancer
+## Physiological Significance of Ion Transporters and Channels in the Stomach and Pathophysiological Relevance in Gastric Cancer
 
 > By Yuan, Dumin and Ma, Zhiyuan and Tuo, Biguang and Li, Taolang and Liu, Xuemei (2020)
 

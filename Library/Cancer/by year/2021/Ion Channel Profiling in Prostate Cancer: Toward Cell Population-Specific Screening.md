@@ -1,4 +1,4 @@
-##Ion Channel Profiling in Prostate Cancer: Toward Cell Population-Specific Screening
+## Ion Channel Profiling in Prostate Cancer: Toward Cell Population-Specific Screening
 
 > By Farfariello, Valerio and Prevarskaya, Natalia and Gkika, Dimitra (2021)
 

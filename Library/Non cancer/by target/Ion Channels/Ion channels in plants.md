@@ -1,4 +1,4 @@
-##Ion channels in plants
+## Ion channels in plants
 
 > By Hedrich, Rainer (2012)
 

@@ -1,4 +1,4 @@
-##Ion channels and their molecular environments - Glimpses and insights from functional proteomics
+## Ion channels and their molecular environments - Glimpses and insights from functional proteomics
 
 > By Schulte, Uwe and Müller, Catrin S. and Fakler, Bernd (2011)
 

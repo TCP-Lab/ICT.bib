@@ -1,4 +1,4 @@
-##How Dysregulated Ion Channels and Transporters Take a Hand in Esophageal, Liver, and Colorectal Cancer
+## How Dysregulated Ion Channels and Transporters Take a Hand in Esophageal, Liver, and Colorectal Cancer
 
 > By Stock, Christian (2021)
 

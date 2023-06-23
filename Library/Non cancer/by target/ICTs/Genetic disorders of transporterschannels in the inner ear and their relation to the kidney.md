@@ -1,4 +1,4 @@
-##Genetic disorders of transporters/channels in the inner ear and their relation to the kidney
+## Genetic disorders of transporters/channels in the inner ear and their relation to the kidney
 
 > By Peters, Theo A. and Monnens, Leo A.H. and Cremers, Cor W.R.J. and Curfs, Jo H.A.J. (2004)
 

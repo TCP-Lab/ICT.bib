@@ -1,4 +1,4 @@
-##Membrane transporters and channels: role of the transportome in cancer chemosensitivity and chemoresistance
+## Membrane transporters and channels: role of the transportome in cancer chemosensitivity and chemoresistance
 
 > By Huang, Ying and Anderle, Pascale and Bussey, Kimberly J. and Barbacioru, Catalin and Shankavaram, Uma and Dai, Zunyan and Reinhold, William C. and Papp, Audrey and Weinstein, John N. and Sadée, Wolfgang (2004)
 

@@ -1,4 +1,4 @@
-##Ion Channels, Transporters, and Sensors Interact with the Acidic Tumor Microenvironment to Modify Cancer Progression
+## Ion Channels, Transporters, and Sensors Interact with the Acidic Tumor Microenvironment to Modify Cancer Progression
 
 > By Boedtkjer, Ebbe (2022)
 

@@ -1,4 +1,4 @@
-##Pathophysiological role of ion channels and transporters in gastrointestinal mucosal diseases
+## Pathophysiological role of ion channels and transporters in gastrointestinal mucosal diseases
 
 > By Deng, Zilin and Zhao, Yingying and Ma, Zhiyuan and Zhang, Minglin and Wang, Hu and Yi, Zhiqiang and Tuo, Biguang and Li, Taolang and Liu, Xuemei (2021)
 

@@ -1,4 +1,4 @@
-##Role of ion channels in gastrointestinal cancer
+## Role of ion channels in gastrointestinal cancer
 
 > By Anderson, Kyle J. and Cormier, Robert T. and Scott, Patricia M. (2019)
 

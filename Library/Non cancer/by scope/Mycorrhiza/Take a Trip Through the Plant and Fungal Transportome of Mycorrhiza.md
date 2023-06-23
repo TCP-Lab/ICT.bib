@@ -1,4 +1,4 @@
-##Take a Trip Through the Plant and Fungal Transportome of Mycorrhiza
+## Take a Trip Through the Plant and Fungal Transportome of Mycorrhiza
 
 > By Garcia, Kevin and Doidy, Joan and Zimmermann, Sabine D. and Wipf, Daniel and Courty, Pierre Emmanuel (2016)
 

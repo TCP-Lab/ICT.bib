@@ -1,4 +1,4 @@
-##Physiological and pathophysiological role of ion channels and transporters in the colorectum and colorectal cancer
+## Physiological and pathophysiological role of ion channels and transporters in the colorectum and colorectal cancer
 
 > By Zhang, Minglin and Li, Taolang and Zhu, Jiaxing and Tuo, Biguang and Liu, Xuemei (2020)
 

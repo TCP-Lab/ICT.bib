@@ -1,4 +1,4 @@
-##Circulating Tumor Cells: Does Ion Transport Contribute to Intravascular Survival, Adhesion, Extravasation, and Metastatic Organotropism?
+## Circulating Tumor Cells: Does Ion Transport Contribute to Intravascular Survival, Adhesion, Extravasation, and Metastatic Organotropism?
 
 > By Stock, Christian (2022)
 

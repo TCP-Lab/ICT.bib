@@ -1,4 +1,4 @@
-##Membrane transport proteins in melanosomes: Regulation of ions for pigmentation
+## Membrane transport proteins in melanosomes: Regulation of ions for pigmentation
 
 > By Wiriyasermkul, Pattama and Moriyama, Satomi and Nagamori, Shushi (2020)
 

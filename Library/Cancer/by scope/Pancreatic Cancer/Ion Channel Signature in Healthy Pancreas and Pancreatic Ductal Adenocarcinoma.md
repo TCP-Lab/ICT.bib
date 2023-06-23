@@ -1,4 +1,4 @@
-##Ion Channel Signature in Healthy Pancreas and Pancreatic Ductal Adenocarcinoma
+## Ion Channel Signature in Healthy Pancreas and Pancreatic Ductal Adenocarcinoma
 
 > By Schnipper, Julie and Dhennin-Duthille, Isabelle and Ahidouch, Ahmed and Ouadid-Ahidouch, Halima (2020)
 

@@ -1,4 +1,4 @@
-##Biotrophic transportome in mutualistic plant-fungal interactions
+## Biotrophic transportome in mutualistic plant-fungal interactions
 
 > By Casieri, Leonardo and Ait Lahmidi, Nassima and Doidy, Joan and Veneault-Fourrey, Claire and Migeon, Aude and Bonneau, Laurent and Courty, Pierre Emmanuel and Garcia, Kevin and Charbonnier, Maryse and Delteil, Amandine and Brun, Annick and Zimmermann, Sabine and Plassard, Claude and Wipf, Daniel (2013)
 

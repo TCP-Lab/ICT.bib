@@ -1,4 +1,4 @@
-##Ion transport in pigmentation
+## Ion transport in pigmentation
 
 > By Bellono, Nicholas W. and Oancea, Elena V. (2014)
 

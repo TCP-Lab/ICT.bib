@@ -1,4 +1,4 @@
-##Regulation of the ion-transporting mitochondrion-rich cell during adaptation of teleost fishes to different salinities
+## Regulation of the ion-transporting mitochondrion-rich cell during adaptation of teleost fishes to different salinities
 
 > By Sakamoto, Tatsuya and Uchida, Katsuhisa and Yokota, Shigefumi (2001)
 

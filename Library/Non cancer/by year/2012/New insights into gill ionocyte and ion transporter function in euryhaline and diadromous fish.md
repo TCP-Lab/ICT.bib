@@ -1,4 +1,4 @@
-##New insights into gill ionocyte and ion transporter function in euryhaline and diadromous fish
+## New insights into gill ionocyte and ion transporter function in euryhaline and diadromous fish
 
 > By Hiroi, Junya and McCormick, Stephen D. (2012)
 

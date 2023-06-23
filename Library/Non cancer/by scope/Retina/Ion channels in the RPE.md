@@ -1,4 +1,4 @@
-##Ion channels in the RPE
+## Ion channels in the RPE
 
 > By Wimmers, Sönke and Karl, Mike O. and Strauss, Olaf (2007)
 

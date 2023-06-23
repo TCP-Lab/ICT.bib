@@ -1,4 +1,4 @@
-##Targeting Ion Channels for Cancer Treatment: Current Progress and Future Challenges
+## Targeting Ion Channels for Cancer Treatment: Current Progress and Future Challenges
 
 > By Capatina, Alina L. and Lagos, Dimitris and Brackenbury, William J. (2022)
 

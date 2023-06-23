@@ -1,4 +1,4 @@
-##Intestinal inflammation and the enterocyte transportome
+## Intestinal inflammation and the enterocyte transportome
 
 > By Romero-Calvo, Isabel and Mascaraque, Cristina and Zarzuelo, Antonio and Suárez, María Dolores and Mart\ńez-Augustin, Olga and Sánchez De Medina, Ferm\' (2011)
 

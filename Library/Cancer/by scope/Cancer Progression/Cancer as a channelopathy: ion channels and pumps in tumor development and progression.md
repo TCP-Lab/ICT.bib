@@ -1,4 +1,4 @@
-##Cancer as a channelopathy: ion channels and pumps in tumor development and progression
+## Cancer as a channelopathy: ion channels and pumps in tumor development and progression
 
 > By Litan, Alisa and Langhans, Sigrid A. (2015)
 

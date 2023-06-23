@@ -1,4 +1,4 @@
-##Ion channels in cancer: future perspectives and clinical potential
+## Ion channels in cancer: future perspectives and clinical potential
 
 > By Lang, Florian and Stournaras, Christos (2014)
 

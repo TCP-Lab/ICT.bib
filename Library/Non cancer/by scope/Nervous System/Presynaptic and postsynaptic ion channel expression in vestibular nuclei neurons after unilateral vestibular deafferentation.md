@@ -1,4 +1,4 @@
-##Presynaptic and postsynaptic ion channel expression in vestibular nuclei neurons after unilateral vestibular deafferentation
+## Presynaptic and postsynaptic ion channel expression in vestibular nuclei neurons after unilateral vestibular deafferentation
 
 > By Shao, Mei and Popratiloff, Anastas and Hirsch, June C. and Peusner, Kenna D. (2009)
 

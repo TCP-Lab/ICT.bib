@@ -1,4 +1,4 @@
-##Channels, pumps, and exchangers in the gill and kidney of freshwater fishes: their role in ionic and acid-base regulation
+## Channels, pumps, and exchangers in the gill and kidney of freshwater fishes: their role in ionic and acid-base regulation
 
 > By Perry, S. F. and Shahsavarani, A. and Georgalis, T. and Bayaa, M. and Furimsky, M. and Thomas, S. L.Y. (2003)
 

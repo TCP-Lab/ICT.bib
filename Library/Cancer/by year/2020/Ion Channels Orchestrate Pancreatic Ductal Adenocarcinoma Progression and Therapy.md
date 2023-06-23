@@ -1,4 +1,4 @@
-##Ion Channels Orchestrate Pancreatic Ductal Adenocarcinoma Progression and Therapy
+## Ion Channels Orchestrate Pancreatic Ductal Adenocarcinoma Progression and Therapy
 
 > By Hofschröer, Verena and Najder, Karolina and Rugi, Micol and Bouazzi, Rayhana and Cozzolino, Marco and Arcangeli, Annarosa and Panyi, Gyorgy and Schwab, Albrecht (2021)
 

@@ -1,4 +1,4 @@
-##Functional significance of channels and transporters expressed in the inner ear and kidney
+## Functional significance of channels and transporters expressed in the inner ear and kidney
 
 > By Lang, Florian and Vallon, Volker and Knipper, Marlies and Wangemann, Philine (2007)
 

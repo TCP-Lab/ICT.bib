@@ -1,4 +1,4 @@
-##Novel Therapeutic Approaches of Ion Channels and Transporters in Cancer
+## Novel Therapeutic Approaches of Ion Channels and Transporters in Cancer
 
 > By Ramírez, Ana and Garc\á-Quiroz, Janice and Aguilar-Eslava, Luis and Sánchez-Pérez, Yesennia and Camacho, Javier (2022)
 

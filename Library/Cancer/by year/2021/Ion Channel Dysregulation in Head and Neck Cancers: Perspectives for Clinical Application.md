@@ -1,4 +1,4 @@
-##Ion Channel Dysregulation in Head and Neck Cancers: Perspectives for Clinical Application
+## Ion Channel Dysregulation in Head and Neck Cancers: Perspectives for Clinical Application
 
 > By Del-Río-Ibisate, Nagore and Granda-D\áz, Roc\' ́and Rodrigo, Juan P. and Menéndez, Sof\'iT́. and Garc\'iaédrero, Juana M. (2021)
 

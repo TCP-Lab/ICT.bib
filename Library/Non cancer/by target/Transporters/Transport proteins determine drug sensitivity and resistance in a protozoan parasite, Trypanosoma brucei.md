@@ -1,4 +1,4 @@
-##Transport proteins determine drug sensitivity and resistance in a protozoan parasite, Trypanosoma brucei
+## Transport proteins determine drug sensitivity and resistance in a protozoan parasite, Trypanosoma brucei
 
 > By Munday, Jane C. and Settimo, Luca and de Koning, Harry P. (2015)
 
