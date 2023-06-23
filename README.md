@@ -4,7 +4,7 @@
 
 # ICT::bib
 
-This repository attempts to collect the current reviews regarding the Transportome, defined as the collection of all proteins present in the cell membrane surface that allow the passage of molecules through the membrane itself.
+This repository attempts to collect the current works regarding the Transportome, defined as the collection of all proteins present in the cell membrane surface that allow the passage of molecules through the membrane itself.
 
 If you use this repository for your research, please cite:
 
@@ -13,8 +13,9 @@ If you use this repository for your research, please cite:
 ## Library Structure
 
 The library (accessible in `\Library\`) is divided into two different *sections*:
-- The `Cancer` section collects all papers regarding cancer;
-- The `Non Cancer` section collects all other papers;
+- The `Cancer` section collects all reviews regarding the transportome in cancer;
+- The `Non Cancer` section collects all other reviews;
+- The `Articles` section collects all research articles investigating the Trasportome or a subsection of it.
 
 Inside each section, the library is organized by three different *categorizations*:
 - The `by scope` section aggregates papers by their scope, i.e. by the main scientific area they cover (e.g. "Cancer Therapy", "Cell Motility", etc...);
