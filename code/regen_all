@@ -16,15 +16,15 @@ echo "Removing library..."
 rm -rf ../Library/*
 
 echo "Regenerating 'Cancer' library..."
-mkdir ../Library/Cancer
-./regen_lib.py ./source_data/library.bib ./source_data/Cancer.csv ../Library/Cancer/
+mkdir -p ../Library/Reviews/Cancer
+./regen_lib.py ./source_data/library.bib ./source_data/Cancer.csv "../Library/Reviews/Cancer"
 
 echo "Regenerating 'Non Cancer' library..."
-mkdir "../Library/Non cancer"
-./regen_lib.py ./source_data/library.bib ./source_data/NonCancer.csv "../Library/Non cancer/"
+mkdir -p "../Library/Reviews/Non cancer"
+./regen_lib.py ./source_data/library.bib ./source_data/NonCancer.csv "../Library/Reviews/Non cancer/"
 
 echo "Regenerating 'Articles' library..."
-mkdir "../Library/Articles"
-./regen_lib.py ./source_data/library.bib ./source_data/articles.csv "../Library/Articles/"
+mkdir "../Library/Research Articles"
+./regen_lib.py ./source_data/library.bib ./source_data/articles.csv "../Library/Research Articles/"
 
 echo "Done!"

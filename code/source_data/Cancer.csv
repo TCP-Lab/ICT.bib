@@ -1,4 +1,4 @@
-SCOPE,TARGET,YEAR,TRANSPORTOME,PMID
+MACROAREA,TOPIC,YEAR,TRANSPORTOME,PMID
 Apoptosis,Life/death decisions in cancer cells ,2014,Ion Channels,24493752
 Apoptosis,Regulation of apoptosis in cancer cells,2015,Ion Channels,25450339
 Brain Tumor,Perivascular glioma invasion,2016,Ion Channels,27424110
@@ -33,9 +33,10 @@ Head and Neck,Clinical potential,2021,Ion Channels,32789787
 Lung Cancer,Cancer progression and therapy,2021,Ion Channels,32772273
 Lung Cancer,Cancer progression and therapy,2021,Ion Channels,34610420
 Melanoma,Cancer progression and therapy,2021,ICTs,32737752
-Ovarian Cancer,Clinical potential,2013,Ion Channels and AQP,23683551
+Ovarian Cancer,Clinical potential,2013,Ion Channels,23683551
 Ovarian Cancer,Pathomechanisms and Pharmacological Treatment,2021,Ion Channels,33562306
 Pancreatic Cancer,PDAC and healthy pancreas,2020,Ion Channels,33178018
 Pancreatic Cancer,PDAC progression and therapy,2020,Ion Channels,33841132
 Pancreatic Cancer,Hallmark of PDAC,2021,ICTs,32770395
 Prostate Cancer,Cell population-specific screening,2021,Ion Channels,32737754
+Cancer Therapy,Chemoresistance,2014,transporters,24317012

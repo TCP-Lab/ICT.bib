@@ -1,4 +1,4 @@
-SCOPE,TARGET,YEAR,TRANSPORTOME,PMID,Ref.
+MACROAREA,TOPIC,YEAR,TRANSPORTOME,PMID,Ref.
 Cell Motility,Distribution of ICTs in migrating cells,2001,ICTs,11292615,
 Cell Motility,Functional role of ICTs in cell migration,2012,ICTs,23073633,
 Cell Motility,Control of cell migration,2013,ICTs,23720281,
@@ -40,3 +40,4 @@ Skin pigmentation ,Melanosomes,2020,ICTs,32333855,
 Sperm physiology,Male fertility and infertility,2012,Ion Channels,22441763,
 Sperm physiology,Astenozoosperimia in mouse models,2022,ICTs,35409285,
 Therapy,New therapeutic concepts,2022,ICTs,35453638,
+Plants,,,,22303277,

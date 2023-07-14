@@ -14,10 +14,11 @@ from copy import copy
 
 TEMPLATE = """## {title}
 
-> By {authors} ({year})
+> By {authors}
 
-- **Macroarea**: "{scope}"
+- **Macro-area**: "{scope}"
 - **Topic**: {target}
+- **Year**: {year}
 - **Transportome considered**: {transportome}
 
 - References:
@@ -38,6 +39,7 @@ README_SECTION_TEMPLATE = "- {value}:"
 README_LINE_TEMPLATE_FULL = "  - ({year}) - {scope}: [{title}](https://doi.org/{doi}) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/{pmid}))"
 README_LINE_TEMPLATE_YEAR = "  - {scope}: [{title}](https://doi.org/{doi}) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/{pmid}))"
 README_LINE_TEMPLATE_SCOPE = "  - ({year}): [{title}](https://doi.org/{doi}) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/{pmid}))"
+# TODO: ADD A README LINE TEMPLATE FOR THE OTHER COLUMNS
 
 
 def get_entry(pmid: str, bib: dict):
@@ -81,9 +83,10 @@ def main(
         table = pd.read_csv(stream, header=0, dtype=str)
 
     needed_cols = {
-        "SCOPE": "by scope",
+        "MACROAREA": "by macro-area",
+        "TOPIC": "by topic",
         "YEAR": "by year",
-        "TRANSPORTOME": "by target",
+        "TRANSPORTOME": "by transportomic target",
     }
 
     assert all(
