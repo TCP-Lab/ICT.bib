@@ -3,7 +3,7 @@
 > By Takvam, Marius and Wood, Chris M. and Kryvi, Harald and Nilsen, Tom O.
 
 - **Macro-area**: Osmoregulation
-- **Topic**: Kidney of teleost fishes
+- **Topic**: Kidney
 - **Year**: 2021
 - **Transportome layer investigated**: ICTs
 

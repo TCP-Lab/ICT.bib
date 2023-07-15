@@ -3,7 +3,7 @@
 > By Hofschröer, Verena and Najder, Karolina and Rugi, Micol and Bouazzi, Rayhana and Cozzolino, Marco and Arcangeli, Annarosa and Panyi, Gyorgy and Schwab, Albrecht
 
 - **Macro-area**: Pancreatic Cancer
-- **Topic**: PDAC progression and therapy
+- **Topic**: Cancer progression and therapy
 - **Year**: 2021
 - **Transportome layer investigated**: Ion Channels
 

@@ -3,7 +3,7 @@
 > By Alonso-Peña, Marta and Espinosa-Escudero, Ricardo A. and Soto-Muñiz, Meraris and Sanchon-Sanchez, Paula and Sanchez-Martin, Anabel and Marin, Jose J.G.
 
 - **Macro-area**: GI cancer
-- **Topic**: Hepatocellular carcinoma and hepatobiliary cancer
+- **Topic**: Liver Cancer
 - **Year**: 2019
 - **Transportome layer investigated**: ICTs
 

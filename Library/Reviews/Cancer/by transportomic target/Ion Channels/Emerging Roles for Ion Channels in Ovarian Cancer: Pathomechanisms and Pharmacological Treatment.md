@@ -3,7 +3,7 @@
 > By Altamura, Concetta and Greco, Maria Raffaella and Carratù, Maria Rosaria and Cardone, Rosa Angela and Desaphy, Jean François
 
 - **Macro-area**: Ovarian Cancer
-- **Topic**: Pathomechanisms and Pharmacological Treatment
+- **Topic**: Cancer Therapy
 - **Year**: 2021
 - **Transportome layer investigated**: Ion Channels
 

@@ -3,7 +3,7 @@
 > By Stock, Christian and Ludwig, Florian T. and Hanley, Peter J. and Schwab, Albrecht
 
 - **Macro-area**: Cell Motility
-- **Topic**: Control of cell migration
+- **Topic**: ICTs in cell migration
 - **Year**: 2013
 - **Transportome layer investigated**: ICTs
 

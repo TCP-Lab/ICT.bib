@@ -3,7 +3,7 @@
 > By Schwab, Albrecht and Stock, Christian
 
 - **Macro-area**: Cancer Progression
-- **Topic**: Cancer cell migration and invasion
+- **Topic**: Metastasis
 - **Year**: 2014
 - **Transportome layer investigated**: ICTs
 

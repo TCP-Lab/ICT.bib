@@ -2,7 +2,7 @@
 
 > By Kersten, Simone and Arjona, Francisco J.
 
-- **Macro-area**: Kidney disease
+- **Macro-area**: Kidney
 - **Topic**: Human and zebrafish kidney
 - **Year**: 2017
 - **Transportome layer investigated**: ICTs

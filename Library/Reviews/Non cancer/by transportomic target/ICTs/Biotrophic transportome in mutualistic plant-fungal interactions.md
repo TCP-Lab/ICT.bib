@@ -3,7 +3,7 @@
 > By Casieri, Leonardo and Ait Lahmidi, Nassima and Doidy, Joan and Veneault-Fourrey, Claire and Migeon, Aude and Bonneau, Laurent and Courty, Pierre Emmanuel and Garcia, Kevin and Charbonnier, Maryse and Delteil, Amandine and Brun, Annick and Zimmermann, Sabine and Plassard, Claude and Wipf, Daniel
 
 - **Macro-area**: Mycorrhiza
-- **Topic**: Ecto- and arbuscular mycorrhiza
+- **Topic**: Mycorrhiza
 - **Year**: 2013
 - **Transportome layer investigated**: ICTs
 

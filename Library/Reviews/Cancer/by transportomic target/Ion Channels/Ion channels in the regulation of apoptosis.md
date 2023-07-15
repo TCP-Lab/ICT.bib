@@ -3,7 +3,7 @@
 > By Kondratskyi, Artem and Kondratska, Kateryna and Skryma, Roman and Prevarskaya, Natalia
 
 - **Macro-area**: Apoptosis
-- **Topic**: Regulation of apoptosis in cancer cells
+- **Topic**: Life/death decisions in cancer cells 
 - **Year**: 2015
 - **Transportome layer investigated**: Ion Channels
 

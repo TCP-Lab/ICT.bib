@@ -3,9 +3,9 @@
 > By Kang, Joohyun and Park, Jiyoung and Choi, Hyunju and Burla, Bo and Kretzschmar, Tobias and Lee, Youngsook and Martinoia, Enrico
 
 - **Macro-area**: Plants
-- **Topic**: nan
+- **Topic**: Arabidopsis thaliana
 - **Year**: 2011
-- **Transportome layer investigated**: nan
+- **Transportome layer investigated**: ABCs
 
 - References:
   - Journal: The arabidopsis book

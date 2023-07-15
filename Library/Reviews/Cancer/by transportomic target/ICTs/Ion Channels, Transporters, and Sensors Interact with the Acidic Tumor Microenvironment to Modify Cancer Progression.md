@@ -3,7 +3,7 @@
 > By Boedtkjer, Ebbe
 
 - **Macro-area**: Breast Cancer
-- **Topic**: Interaction with the acidic TME
+- **Topic**: Tumor Microenvironment
 - **Year**: 2022
 - **Transportome layer investigated**: ICTs
 

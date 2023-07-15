@@ -1,47 +1,5 @@
 # Index 
 
-- Transporters
-  - (2006) - Sinorhizobium meliloti: [Mapping the Sinorhizobium Meliloti 1021 Solute-Binding Protein-Dependent Transportome](https://doi.org/10.1073/pnas.0606673103) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/17101990))
-  - (2008) - Candida albicans: [MFS transportome of the human pathogenic yeast Candida albicans.](https://doi.org/10.1186/1471-2164-9-579) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/19055746))
-
-  - (2008) - Laccaria bicolor: [A gene repertoire for nitrogen transporters in Laccaria bicolor](https://doi.org/10.1111/j.1469-8137.2008.02580.x) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/18665901))
-
-  - (2011) - Chemosensitivity and Chemoresistance: [Evaluation of drug transporters' significance for multidrug resistance in head and neck squamous cell carcinoma](https://doi.org/10.1002/HED.21559) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/20737486))
-
-  - (2015) - Aspergillus niger: [Aspergillus Niger Membrane-Associated Proteome Analysis for the Identification of Glucose Transporters](https://doi.org/10.1186/s13068-015-0317-9) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26388937))
-
-  - (2016) - Aspergillus niger and Trichoderma reesei: [Identification and Functional Characterization of Novel Xylose Transporters from the Cell Factories Aspergillus Niger and Trichoderma Reesei](https://doi.org/10.1186/s13068-016-0564-4) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27446237))
-
-  - (2016) - Chemosensitivity and Chemoresistance: [Pharmacogenomic analyzis of the responsiveness of gastrointestinal tumor cell lines to drug therapy: A transportome approach](https://doi.org/10.1016/J.PHRS.2016.09.007) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27620070))
-
-  - (2017) - Nitrogen starvation: [Transcriptome analysis of the populus trichocarpa-rhizophagus irregularis mycorrhizal symbiosis: Regulation of plant and fungal transportomes under nitrogen starvation](https://doi.org/10.1093/pcp/pcx044) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/28387868))
-
-  - (2018) - Candida glabrata: [ABC transportome inventory of human pathogenic yeast Candida glabrata: Phylogenetic and expression analysis](https://doi.org/10.1371/journal.pone.0202993) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/30153284))
-
-  - (2019) - Phosphate availability: [Imbalanced Regulation of Fungal Nutrient Transports According to Phosphate Availability in a Symbiocosm Formed by Poplar, Sorghum, and Rhizophagus irregularis](https://doi.org/10.3389/FPLS.2019.01617) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31921260))
-
-  - (2020) - Chemosensitivity and Chemoresistance: [Sensitizing gastric adenocarcinoma to chemotherapy by pharmacological manipulation of drug transporters](https://doi.org/10.1016/J.BCP.2019.113682) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31669256))
-
-- Ion Channels
-  - (2005) - Bone Marrow Mesenchymal Stem Cells: [Characterization of ionic currents in human mesenchymal stem cells from bone marrow](https://doi.org/10.1634/STEMCELLS.2004-0213) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/15749932))
-
-  - (2006) - Bone Marrow Mesenchymal Stem Cells: [Ion channels in mesenchymal stem cells from rat bone marrow](https://doi.org/10.1634/STEMCELLS.2005-0307) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/16484345))
-
-  - (2007) - Heart Development: [Large-scale analysis of ion channel gene expression in the mouse heart during perinatal development](https://doi.org/10.1152/physiolgenomics.00163.2006) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/16985003))
-
-  - (2013) - Markers for Breast cancer: [Expression profiling of ion channel genes predicts clinical outcome in breast cancer](https://doi.org/10.1186/1476-4598-12-106) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24053408))
-
-  - (2013) - Pain sensation through DRG and TG: [Comprehensive RNA-Seq expression analysis of sensory ganglia with a focus on ion channels and GPCRs in Trigeminal ganglia](https://doi.org/10.1371/JOURNAL.PONE.0079523) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24260241))
-
-  - (2014) - Markers for Lung cancer: [Ion channel gene expression in lung adenocarcinoma: potential role in prognosis and diagnosis](https://doi.org/10.1371/JOURNAL.PONE.0086569) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24466154))
-
-  - (2015) - Markers for Glioma: [Ion channel gene expression predicts survival in glioma patients](https://doi.org/10.1038/SREP11593) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26235283))
-  - (2016) - Ion channelome Profiling: [Transcriptomic analysis of the ion channelome of human platelets and megakaryocytic cell lines](https://doi.org/10.1160/TH15-11-0891) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27277069))
-
-  - (2019) - Drosophila Melanogaster Wing Development: [Ion Channel Contributions to Wing Development in Drosophila melanogaster](https://doi.org/10.1534/G3.119.400028) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/30733380))
-
-  - (2021) - Lymnaea stagnalis CNS: [Ion channel profiling of the Lymnaea stagnalis ganglia via transcriptome analysis](https://doi.org/10.1186/S12864-020-07287-2) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33407100))
-
 - ICTs
   - (2003) - Intestine absorptive capacity: [Messenger RNA expression of transporter and ion channel genes in undifferentiated and differentiated Caco-2 cells compared to human intestines](https://doi.org/10.1023/A:1022282221530) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/12608530))
 
@@ -102,5 +60,46 @@
 
   - (2023) - Rust Fungi (Pucciniales): [A Remarkable Expansion of Oligopeptide Transporter Genes in Rust Fungi (Pucciniales) Suggests a Specialization in Nutrient Acquisition for Obligate Biotrophy](https://doi.org/10.1094/PHYTO-04-22-0128-R) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/36044359))
 
+- Ion Channels
+  - (2005) - Bone Marrow Mesenchymal Stem Cells: [Characterization of ionic currents in human mesenchymal stem cells from bone marrow](https://doi.org/10.1634/STEMCELLS.2004-0213) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/15749932))
+
+  - (2006) - Bone Marrow Mesenchymal Stem Cells: [Ion channels in mesenchymal stem cells from rat bone marrow](https://doi.org/10.1634/STEMCELLS.2005-0307) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/16484345))
+
+  - (2007) - Heart Development: [Large-scale analysis of ion channel gene expression in the mouse heart during perinatal development](https://doi.org/10.1152/physiolgenomics.00163.2006) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/16985003))
+
+  - (2013) - Markers for Breast cancer: [Expression profiling of ion channel genes predicts clinical outcome in breast cancer](https://doi.org/10.1186/1476-4598-12-106) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24053408))
+
+  - (2013) - Pain sensation through DRG and TG: [Comprehensive RNA-Seq expression analysis of sensory ganglia with a focus on ion channels and GPCRs in Trigeminal ganglia](https://doi.org/10.1371/JOURNAL.PONE.0079523) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24260241))
+
+  - (2014) - Markers for Lung cancer: [Ion channel gene expression in lung adenocarcinoma: potential role in prognosis and diagnosis](https://doi.org/10.1371/JOURNAL.PONE.0086569) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24466154))
+
+  - (2015) - Markers for Glioma: [Ion channel gene expression predicts survival in glioma patients](https://doi.org/10.1038/SREP11593) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26235283))
+  - (2016) - Ion channelome Profiling: [Transcriptomic analysis of the ion channelome of human platelets and megakaryocytic cell lines](https://doi.org/10.1160/TH15-11-0891) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27277069))
+
+  - (2019) - Drosophila Melanogaster Wing Development: [Ion Channel Contributions to Wing Development in Drosophila melanogaster](https://doi.org/10.1534/G3.119.400028) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/30733380))
+
+  - (2021) - Lymnaea stagnalis CNS: [Ion channel profiling of the Lymnaea stagnalis ganglia via transcriptome analysis](https://doi.org/10.1186/S12864-020-07287-2) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33407100))
+
 - Transporter
   - (2017) - Saccharomyces cerevisiae: [A CRISPR/Cas9-based exploration into the elusive mechanism for lactate export in Saccharomyces cerevisiae](https://doi.org/10.1093/femsyr/fox085) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/29145596))
+- Transporters
+  - (2006) - Sinorhizobium meliloti: [Mapping the Sinorhizobium Meliloti 1021 Solute-Binding Protein-Dependent Transportome](https://doi.org/10.1073/pnas.0606673103) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/17101990))
+  - (2008) - Candida albicans: [MFS transportome of the human pathogenic yeast Candida albicans.](https://doi.org/10.1186/1471-2164-9-579) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/19055746))
+
+  - (2008) - Laccaria bicolor: [A gene repertoire for nitrogen transporters in Laccaria bicolor](https://doi.org/10.1111/j.1469-8137.2008.02580.x) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/18665901))
+
+  - (2011) - Chemosensitivity and Chemoresistance: [Evaluation of drug transporters' significance for multidrug resistance in head and neck squamous cell carcinoma](https://doi.org/10.1002/HED.21559) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/20737486))
+
+  - (2015) - Aspergillus niger: [Aspergillus Niger Membrane-Associated Proteome Analysis for the Identification of Glucose Transporters](https://doi.org/10.1186/s13068-015-0317-9) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26388937))
+
+  - (2016) - Aspergillus niger and Trichoderma reesei: [Identification and Functional Characterization of Novel Xylose Transporters from the Cell Factories Aspergillus Niger and Trichoderma Reesei](https://doi.org/10.1186/s13068-016-0564-4) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27446237))
+
+  - (2016) - Chemosensitivity and Chemoresistance: [Pharmacogenomic analyzis of the responsiveness of gastrointestinal tumor cell lines to drug therapy: A transportome approach](https://doi.org/10.1016/J.PHRS.2016.09.007) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27620070))
+
+  - (2017) - Nitrogen starvation: [Transcriptome analysis of the populus trichocarpa-rhizophagus irregularis mycorrhizal symbiosis: Regulation of plant and fungal transportomes under nitrogen starvation](https://doi.org/10.1093/pcp/pcx044) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/28387868))
+
+  - (2018) - Candida glabrata: [ABC transportome inventory of human pathogenic yeast Candida glabrata: Phylogenetic and expression analysis](https://doi.org/10.1371/journal.pone.0202993) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/30153284))
+
+  - (2019) - Phosphate availability: [Imbalanced Regulation of Fungal Nutrient Transports According to Phosphate Availability in a Symbiocosm Formed by Poplar, Sorghum, and Rhizophagus irregularis](https://doi.org/10.3389/FPLS.2019.01617) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31921260))
+
+  - (2020) - Chemosensitivity and Chemoresistance: [Sensitizing gastric adenocarcinoma to chemotherapy by pharmacological manipulation of drug transporters](https://doi.org/10.1016/J.BCP.2019.113682) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31669256))

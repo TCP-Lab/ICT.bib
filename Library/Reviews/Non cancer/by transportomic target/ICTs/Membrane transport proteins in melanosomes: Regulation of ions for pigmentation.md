@@ -3,7 +3,7 @@
 > By Wiriyasermkul, Pattama and Moriyama, Satomi and Nagamori, Shushi
 
 - **Macro-area**: Skin pigmentation 
-- **Topic**: Melanosomes
+- **Topic**: Melanocytes
 - **Year**: 2020
 - **Transportome layer investigated**: ICTs
 

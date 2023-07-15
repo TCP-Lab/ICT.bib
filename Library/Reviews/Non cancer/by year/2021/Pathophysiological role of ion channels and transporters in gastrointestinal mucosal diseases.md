@@ -3,7 +3,7 @@
 > By Deng, Zilin and Zhao, Yingying and Ma, Zhiyuan and Zhang, Minglin and Wang, Hu and Yi, Zhiqiang and Tuo, Biguang and Li, Taolang and Liu, Xuemei
 
 - **Macro-area**: GI tract disease
-- **Topic**: Gastrointestinal mucosa diseases
+- **Topic**: Gastric mucosal injury
 - **Year**: 2021
 - **Transportome layer investigated**: ICTs
 

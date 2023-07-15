@@ -3,7 +3,7 @@
 > By Ouadid-Ahidouch, Halima and Morjani, Hamid and Schnipper, Julie and Girault, Alban and Ahidouch, Ahmed
 
 - **Macro-area**: Breast Cancer
-- **Topic**: Effect of TME
+- **Topic**: Tumor Microenvironment
 - **Year**: 2021
 - **Transportome layer investigated**: Ion Channels
 

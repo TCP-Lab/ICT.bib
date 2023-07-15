@@ -3,7 +3,7 @@
 > By Thompson, Emily G. and Sontheimer, Harald
 
 - **Macro-area**: Brain Tumor
-- **Topic**: Perivascular glioma invasion
+- **Topic**: Metastasis
 - **Year**: 2016
 - **Transportome layer investigated**: Ion Channels
 

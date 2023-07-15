@@ -3,7 +3,7 @@
 > By Marin, Jose J.G. and Monte, Maria J. and Blazquez, Alba G. and MacIas, Rocio I. and Serrano, Maria A. and Briz, Oscar
 
 - **Macro-area**: Cancer Therapy
-- **Topic**: Chemoresistance
+- **Topic**: Chemoresistance and Chemosensitivity
 - **Year**: 2014
 - **Transportome layer investigated**: transporters
 

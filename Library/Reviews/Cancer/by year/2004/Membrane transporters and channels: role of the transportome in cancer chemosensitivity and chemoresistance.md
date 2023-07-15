@@ -3,7 +3,7 @@
 > By Huang, Ying and Anderle, Pascale and Bussey, Kimberly J. and Barbacioru, Catalin and Shankavaram, Uma and Dai, Zunyan and Reinhold, William C. and Papp, Audrey and Weinstein, John N. and Sadée, Wolfgang
 
 - **Macro-area**: Cancer Therapy
-- **Topic**: Chemosensitivity
+- **Topic**: Chemoresistance and Chemosensitivity
 - **Year**: 2004
 - **Transportome layer investigated**: ICTs
 

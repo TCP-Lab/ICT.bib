@@ -3,7 +3,7 @@
 > By Uddin, Muhammad Erfan and Moseley, Angie and Hu, Shuiying and Sparreboom, Alex
 
 - **Macro-area**: Cancer Therapy
-- **Topic**: Chemotherapy-induced cardiotoxicity
+- **Topic**: Chemotherapy Adverse Effects
 - **Year**: 2022
 - **Transportome layer investigated**: ICTs
 

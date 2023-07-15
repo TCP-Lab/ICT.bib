@@ -3,7 +3,7 @@
 > By Schwab, Albrecht
 
 - **Macro-area**: Cell Motility
-- **Topic**: Distribution of ICTs in migrating cells
+- **Topic**: ICTs in cell migration
 - **Year**: 2001
 - **Transportome layer investigated**: ICTs
 

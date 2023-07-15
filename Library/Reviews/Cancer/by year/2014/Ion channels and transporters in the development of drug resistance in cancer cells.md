@@ -3,7 +3,7 @@
 > By Hoffmann, Else K. and Lambe, Ian H.
 
 - **Macro-area**: Cancer Therapy
-- **Topic**: Chemoresistance
+- **Topic**: Chemoresistance and Chemosensitivity
 - **Year**: 2014
 - **Transportome layer investigated**: ICTs
 

@@ -3,7 +3,7 @@
 > By Fiorio Pla, A. and Munaron, L.
 
 - **Macro-area**: Cancer Progression
-- **Topic**: Tumor vascularization
+- **Topic**: Angiogenesis
 - **Year**: 2014
 - **Transportome layer investigated**: ICTs
 

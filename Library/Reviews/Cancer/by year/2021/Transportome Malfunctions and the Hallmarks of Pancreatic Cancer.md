@@ -3,7 +3,7 @@
 > By Ling, Qi and Kalthoff, Holger
 
 - **Macro-area**: Pancreatic Cancer
-- **Topic**: Hallmark of PDAC
+- **Topic**: Cancer Hallmarks
 - **Year**: 2021
 - **Transportome layer investigated**: ICTs
 

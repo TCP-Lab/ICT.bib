@@ -1,43 +1,43 @@
 MACROAREA,TOPIC,TRANSPORTOME,PMID
-Cell Motility,Distribution of ICTs in migrating cells,ICTs,11292615
-Cell Motility,Functional role of ICTs in cell migration,ICTs,23073633
-Cell Motility,Control of cell migration,ICTs,23720281
-Channelopathies,Transepithelial transport and vesicular function,Ion Channels,19185187
-Channelopathies,Nervous System,Ion Channels,20331364
-Channelopathies,Kidney,Ion Channels,24662008
-Functional proteomics,Channel-associated protein environments,Ion Channels,20934526
-Functional proteomics,Interactome,Ion Channels,25392484
-GI tract,Intestine,ICTs,19528875
-GI tract,Small intestine,ICTs,22157512
-GI tract disease,Intestinal inflammation,ICTs,21787355
-GI tract disease,Gastrointestinal mucosa diseases,ICTs,34778915
-GI tract disease,Gastric mucosal injury,ICTs,35276516
 Immunity,Adaptive and innate immunity,ICTs,25861976
-Immunity,New therapeutic concepts,Ion Channels,30862701
+Sperm physiology,Astenozoosperimia in mouse models,ICTs,35409285
+Functional proteomics,Channel-associated protein environments,Ion Channels,20934526
+Nervous System,CNS - epilepsy,Ion Channels,11579435
+Kidney,Connecting tubule and cortical collecting duct,ICTs,23227301
+Cell Motility,ICTs in cell migration,ICTs,23720281
+Mycorrhiza,Control of nutrient fluxes,ICTs,27514454
+Cell Motility,ICTs in cell migration,ICTs,11292615
+Mycorrhiza,Mycorrhiza,ICTs,23572325
+Plants,Evolution,Ion Channels,23073631
 Kidney,Freshwater fish,ICTs,14598386
+Cell Motility,Functional role of ICTs in cell migration,ICTs,23073633
+GI tract disease,Gastric mucosal injury,ICTs,35276516
+GI tract disease,Gastric mucosal injury,ICTs,34778915
+Osmoregulation,Gill of teleost euryhaline and diadromous fish,ICTs,22850177
+Osmoregulation,Gill of teleost fishes,ICTs,17689996
+Osmoregulation,Gill of teleost fishes euryhaline,ICTs,11911073
+Kidney,Human and zebrafish kidney,ICTs,27852607
 Kidney,Inner ear and kidney,ICTs,15365806
 Kidney,Inner ear and kidney,ICTs,17670895
-Kidney,Connecting tubule and cortical collecting duct,ICTs,23227301
-Kidney,TAL and blood pressure,ICTs,28389525
-Kidney disease,Human and zebrafish kidney,ICTs,27852607
-Kidney disease,Polycystic kidney disease,ICTs,34751394
-Mycorrhiza,Ecto- and arbuscular mycorrhiza,ICTs,23572325
-Mycorrhiza,Control of nutrient fluxes,ICTs,27514454
-Nervous System,CNS - epilepsy,Ion Channels,11579435
-Nervous System,PNS - vestibular nuclei neurons,Ion Channels,20495236
-Osmoregulation,Gill of teleost fishes euryhaline,ICTs,11911073
-Osmoregulation,Gill of teleost fishes,ICTs,17689996
-Osmoregulation,Gill of teleost euryhaline and diadromous fish,ICTs,22850177
-Osmoregulation,Kidney of teleost fishes,ICTs,33967835
-Plants,Evolution,Ion Channels,23073631
+Functional proteomics,Interactome,Ion Channels,25392484
+GI tract disease,Inflammation,ICTs,21787355
+GI tract,Intestine,ICTs,19528875
+Channelopathies,Kidney,Ion Channels,24662008
+Osmoregulation,Kidney,ICTs,33967835
+Sperm physiology,Male fertility and infertility,Ion Channels,22441763
+Skin pigmentation ,Melanocytes,ICTs,25034214
+Skin pigmentation ,Melanocytes,ICTs,32333855
+Nervous System,Channelopathies,Ion Channels,20331364
+Immunity,New therapeutic concepts,Ion Channels,30862701
+Therapy,New therapeutic concepts,ICTs,35453638
 Plants,Plant growth and development,ICTs,34884597
-Protozoa ,Trypanosoma brucei,Transporters,25814953
 Protozoa ,Plasmodium falciparum,ICTs,31701663
+Nervous System,PNS - vestibular nuclei neurons,Ion Channels,20495236
+Kidney disease,Polycystic kidney disease,ICTs,34751394
 Retina,Retinal pigment epithelium (RPE),Ion Channels,17258931
 Retina,Retinal pigment epithelium (RPE),ICTs,25152360
-Skin pigmentation ,Melanocytes and intracellular organelles,ICTs,25034214
-Skin pigmentation ,Melanosomes,ICTs,32333855
-Sperm physiology,Male fertility and infertility,Ion Channels,22441763
-Sperm physiology,Astenozoosperimia in mouse models,ICTs,35409285
-Therapy,New therapeutic concepts,ICTs,35453638
-Plants,,,22303277
+GI tract,Small intestine,ICTs,22157512
+Kidney,TAL and blood pressure,ICTs,28389525
+Channelopathies,Transepithelial transport and vesicular function,Ion Channels,19185187
+Protozoa ,Trypanosoma brucei,Transporters,25814953
+Plants,Arabidopsis thaliana,ABCs,22303277

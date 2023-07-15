@@ -2,8 +2,8 @@
 
 > By Kullmann, Dimitri M.
 
-- **Macro-area**: Channelopathies
-- **Topic**: Nervous System
+- **Macro-area**: Nervous System
+- **Topic**: Channelopathies
 - **Year**: 2010
 - **Transportome layer investigated**: Ion Channels
 

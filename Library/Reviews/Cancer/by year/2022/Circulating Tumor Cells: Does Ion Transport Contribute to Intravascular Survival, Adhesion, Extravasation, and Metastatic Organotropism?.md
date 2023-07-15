@@ -3,7 +3,7 @@
 > By Stock, Christian
 
 - **Macro-area**: Cancer Progression
-- **Topic**: Circulating Tumor Cells
+- **Topic**: Metastasis
 - **Year**: 2022
 - **Transportome layer investigated**: ICTs
 

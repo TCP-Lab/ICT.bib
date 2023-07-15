@@ -3,7 +3,7 @@
 > By Stock, Christian
 
 - **Macro-area**: GI cancer
-- **Topic**: Esophageal, liver and colorectal cancer
+- **Topic**: GI Tract Cancer
 - **Year**: 2021
 - **Transportome layer investigated**: ICTs
 

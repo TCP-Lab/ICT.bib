@@ -3,7 +3,7 @@
 > By Martial, Sonia
 
 - **Macro-area**: Cancer Progression
-- **Topic**: Angiogenesis and metastasis
+- **Topic**: Angiogenesis
 - **Year**: 2016
 - **Transportome layer investigated**: ICTs
 

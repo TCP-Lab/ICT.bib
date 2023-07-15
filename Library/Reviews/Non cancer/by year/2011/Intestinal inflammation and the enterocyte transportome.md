@@ -3,7 +3,7 @@
 > By Romero-Calvo, Isabel and Mascaraque, Cristina and Zarzuelo, Antonio and Suárez, María Dolores and Mart\ńez-Augustin, Olga and Sánchez De Medina, Ferm\'
 
 - **Macro-area**: GI tract disease
-- **Topic**: Intestinal inflammation
+- **Topic**: Inflammation
 - **Year**: 2011
 - **Transportome layer investigated**: ICTs
 

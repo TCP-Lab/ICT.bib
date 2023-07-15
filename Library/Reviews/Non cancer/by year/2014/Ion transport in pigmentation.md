@@ -3,7 +3,7 @@
 > By Bellono, Nicholas W. and Oancea, Elena V.
 
 - **Macro-area**: Skin pigmentation 
-- **Topic**: Melanocytes and intracellular organelles
+- **Topic**: Melanocytes
 - **Year**: 2014
 - **Transportome layer investigated**: ICTs
 
