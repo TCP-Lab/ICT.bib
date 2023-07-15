@@ -1,29 +1,32 @@
 #!/usr/bin/env python
-
-### >>>> BIG DISCLAIMER <<<<<
-# This is a very - very - bad script to quickly regen the library from the
-# tables that we had + the .bib files from Mendeley/Zotero that we had before.
-# Please don't judge me for it. I had like 3 hours to make it.
-
+from __future__ import annotations
 import bibtexparser as bibx
 import pandas as pd
 from pathlib import Path
 
 import os
 from copy import copy
+from dataclasses import dataclass
+import io
+import logging
 
-TEMPLATE = """## {title}
+logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
-> By {authors}
+log = logging.getLogger(__name__)
 
-- **Macro-area**: "{scope}"
-- **Topic**: {target}
+## Constants
+PAGE_TEMPLATE = """# {title}
+
+> By {author}
+
+- **Macro-area**: {macroarea}
+- **Topic**: {topic}
 - **Year**: {year}
-- **Transportome considered**: {transportome}
+- **Transportome layer investigated**: {transportome}
 
 - References:
   - Journal: {journal}
-  - DOI: {doi}
+  - DOI: [{doi}](https://doi.org/{doi})
   - PMID: {pmid}
 
 ### Abstract
@@ -31,186 +34,256 @@ TEMPLATE = """## {title}
 {abstract}
 """
 
+README = {
+    "template": "# Index \n\n{readme_lines}",
+    "lines": {
+        "full": "- ({year}) - {topic}: [{title}](https://doi.org/{doi}) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/{pmid}))",
+        "year": "- {topic}: [{title}](https://doi.org/{doi}) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/{pmid}))",
+        "topic": "- ({year}): [{title}](https://doi.org/{doi}) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/{pmid}))",
+    },
+}
 README_TEMPLATE = """# Index
 
 {readme_lines}
 """
-README_SECTION_TEMPLATE = "- {value}:"
-README_LINE_TEMPLATE_FULL = "  - ({year}) - {scope}: [{title}](https://doi.org/{doi}) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/{pmid}))"
-README_LINE_TEMPLATE_YEAR = "  - {scope}: [{title}](https://doi.org/{doi}) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/{pmid}))"
-README_LINE_TEMPLATE_SCOPE = "  - ({year}): [{title}](https://doi.org/{doi}) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/{pmid}))"
-# TODO: ADD A README LINE TEMPLATE FOR THE OTHER COLUMNS
 
 
-def get_entry(pmid: str, bib: dict):
-    for item in bib:
-        if bib[item]["PMID"] == pmid:
-            return bib[item]
+SPLIT_COLS = {
+    "macroarea": {
+        "display": "by macroarea",
+        "readme_line_template": README["lines"]["full"],
+    },
+    "topic": {"display": "by topic", "readme_line_template": README["lines"]["topic"]},
+    "year": {"display": "by year", "readme_line_template": README["lines"]["year"]},
+    "transportome": {
+        "display": "by transportomic target",
+        "readme_line_template": README["lines"]["full"],
+    },
+}
+"""
+A dict that governs over which strings to split on. Plus,
+it directs which README lines to use to make that split.
+"""
 
-    raise ValueError(f"Cannot find pmid {pmid} in bibliography!")
+
+class MissingKeyError(Exception):
+    pass
 
 
-def main(
-    bib_file: Path,
-    csv_structure: Path,
-    output_dir: Path,
-    pmid_col: str = "PMID",
-):
-    print(f"Reading csv file {bib_file}...")
+@dataclass
+class Entry:
+    pmid: str
+    macroarea: str = None
+    topic: str = None
+    transportome: str = None
+    doi: str = None
+    year: str = None
+    journal: str = None
+    author: str = None
+    title: str = None
+    abstract: str = None
 
+    def fill_with_bib(self, bib: dict) -> Entry:
+        new_dict = copy(self.__dict__)
+        for key, value in self.__dict__.items():
+            value = bib.get(key)
+            if value is not None:
+                new_dict[key] = value
+
+        self.__dict__ = new_dict
+
+        return self
+
+    @property
+    def full(self) -> bool:
+        return not all([x is None for x in self.__dict__.values()])
+
+    def validate(self):
+        if self.full:
+            return
+        missing_keys = [x for x, value in self.__dict__.items() if value is None]
+
+        raise MissingKeyError(
+            "Missing keys: {} for entry {self}".format(
+                ", ".join(missing_keys), self=self
+            )
+        )
+
+    def __str__(self) -> str:
+        return f"<Entry with PMID {self.pmid}>"
+
+    def __getitem__(self, key) -> str:
+        return self.__dict__[key]
+
+
+def make_entries_from_csv(frame: pd.DataFrame) -> list[Entry]:
+    entries = list()
+
+    for _, row in frame.iterrows():
+        entries.append(
+            Entry(
+                macroarea=row["MACROAREA"],
+                topic=row["TOPIC"],
+                pmid=row["PMID"],
+                transportome=row["TRANSPORTOME"],
+            )
+        )
+
+    return entries
+
+
+def make_readme_section(entries: list[Entry], line_template: str) -> io.StringIO:
+    formatted_lines = []
+
+    for entry in entries:
+        formatted_lines.append(line_template.format(**entry.__dict__))
+
+    return io.StringIO("\n".join(formatted_lines))
+
+
+def make_readme(
+    exploded_entries: dict[str, list[Entry]], template: str, line_template: str
+) -> io.StringIO:
+    readme_lines = []
+    for key, entries in exploded_entries.items():
+        section_lines = make_readme_section(entries, line_template).readlines()
+        # We need to pad this by a bit since it's indented
+        section_lines = [f"  {line}" for line in section_lines]
+        section_lines.sort()
+        readme_lines.append(f"- {key}")
+        readme_lines.extend(section_lines)
+
+    return io.StringIO(template.format(readme_lines="\n".join(readme_lines)))
+
+
+def make_page_from_entry(entry: Entry, template: str) -> io.StringIO:
+    entry.validate()
+    return io.StringIO(template.format(**entry.__dict__))
+
+
+def load_bib(stream: io.StringIO):
     def customize(record):
-        #record = bibx.customization.homogenize_latex_encoding(record)
         record = bibx.customization.convert_to_unicode(record)
 
         return record
 
-    with bib_file.open("r") as stream:
-        parser = bibx.bparser.BibTexParser(
-            common_strings=True,
-            customization=customize
+    parser = bibx.bparser.BibTexParser(common_strings=True, customization=customize)
+
+    bib_data = bibx.load(stream, parser)
+
+    return bib_data
+
+
+def explode_entries_by_var(entries: list[Entry], var: str):
+    # TODO: This is not particularly efficient, but who cares.
+    # We could make the buckets and put the items in in just one
+    # pass through the list, while here we make len(possible_values) + 1 passes
+    possible_values = set([x[var] for x in entries])
+    result = {}
+    for value in possible_values:
+        result[value] = [x for x in entries if x[var] == value]
+
+    return result
+
+
+def get_file_title_from_entry(entry: Entry) -> str:
+    return f"{entry.title}.md"
+
+
+def write_file(file: tuple(Path, io.StringIO)) -> None:
+    path = file[0]
+    content = file[1]
+
+    assert isinstance(path, Path), f"{path} is not a path"
+    assert isinstance(content, io.StringIO), f"{content} is not a path"
+
+    log.debug(f"Writing {path}...")
+    os.makedirs(path.parent, exist_ok=True)
+    with file[0].open("w+") as stream:
+        stream.writelines(content.readlines())
+
+
+def get_bib_from_entries(
+    entries: list[Entry], bib: bibx.bibdatabase.BibDatabase
+) -> bibx.bibdatabase.BibDatabase:
+    selection_pmids = [x.pmid for x in entries]
+    # I .get(..., "null") to avoid accidentally having None in selection_pmids
+    # validating everything.
+    selected_entries = [x for x in bib.entries if x.get("pmid", "null") in selection_pmids]
+
+    db = bibx.bibdatabase.BibDatabase()
+    db.entries = selected_entries
+
+    return db
+
+def get_entry(pmid: str, bib: bibx.bibdatabase.BibDatabase):
+    for item in bib.entries:
+        if item.get("pmid") == pmid or item.get("PMID") == pmid:
+            return item
+
+    raise ValueError(f"Cannot find pmid {pmid} in bibliography!")
+
+def main(bib_file: Path, csv_file: Path, output_dir: Path):
+    # I do this ALL the time. There must be a better way...
+    bib_file = bib_file.expanduser().resolve()
+    csv_file = csv_file.expanduser().resolve()
+    output_dir = output_dir.expanduser().resolve()
+
+    log.info(f"Reading csv file @ {csv_file}")
+    frame = pd.read_csv(csv_file, header=0, dtype=str)
+
+    log.info(f"Loading bib entries @ {bib_file}")
+    with bib_file.open("r+") as file:
+        bib = load_bib(file)
+
+    log.info("Making entries...")
+    entries = make_entries_from_csv(frame)
+    log.info(f"Made {len(entries)} partial entries.")
+
+    # I don't like this, since the state has to change before
+    # we use the entry, but since it's such a simple use case
+    # I'll just do it like this since it's easy
+    log.info("Filling entries with bib data...")
+    entries = [entry.fill_with_bib(get_entry(entry.pmid, bib)) for entry in entries]
+
+    log.info("Validating all entries...")
+    [x.validate() for x in entries]
+
+    # Ok, so here we have a list of filled entries. We just
+    # need to create the various sub-lists.
+    files: list[tuple[Path, io.StringIO]] = list()
+
+    for split_key, vars in SPLIT_COLS.items():
+        sublists = explode_entries_by_var(entries, split_key)
+        readme = make_readme(
+            exploded_entries=sublists,
+            template=README["template"],
+            line_template=vars["readme_line_template"],
         )
-
-        bib_data = bibx.load(stream, parser)
-
-    print("Taking out PMIDs...")
-    available_pmids = []
-    for entry in bib_data.entries:
-        if "pmid" in entry:
-            available_pmids.append(entry["pmid"])
-
-    print(f"Loading csv table {csv_structure}...")
-    with csv_structure.open("r") as stream:
-        table = pd.read_csv(stream, header=0, dtype=str)
-
-    needed_cols = {
-        "MACROAREA": "by macro-area",
-        "TOPIC": "by topic",
-        "YEAR": "by year",
-        "TRANSPORTOME": "by transportomic target",
-    }
-
-    assert all(
-        [x in table.columns.to_list() for x in needed_cols]
-    ), f"Missing columns in table: {[x for x in needed_cols if x not in table.columns]} (available: {table.columns})"
-    assert pmid_col in table.columns, "Missing PMID col in table"
-    assert all(
-        [x in available_pmids for x in table[pmid_col].to_list()]
-    ), f"There are PMIDs in the table not in the .bib: {[x for x in table[pmid_col].to_list() if x not in available_pmids]}"
-
-    print("Writing output files...")
-    # Remove bib entries if there is no bib
-    available_bibs = []
-    for entry in bib_data.entries:
-        if "pmid" in entry:
-            available_bibs.append(entry)
-    # We need to fi
-    for col, folder_name in needed_cols.items():
-        print(f"Ordering entries {folder_name}...")
-        os.makedirs(output_dir / folder_name, exist_ok=True)
-
-        readme_lines = []
-
-        for value in sorted(set(table[col].tolist())):
-            print(f"Saving value {value}...")
-            os.makedirs(output_dir / folder_name / value, exist_ok=True)
-            # Get the PMIDs of the values that are needed to be populated in this
-            # folder
-            pmid_set = table.loc[table[col] == value, pmid_col].to_list()
-
-            # Get the corresponding .bib entries.
-            bibs = [x for x in available_bibs if x["pmid"] in pmid_set]
-
-            # Get rid of potential duplicates
-            bib_pool = []
-            clean_bibs = []
-            for item in bibs:
-                if item["pmid"] not in bib_pool:
-                    bib_pool.append(item["pmid"])
-                    clean_bibs.append(item)
-            
-            bibs = clean_bibs
-
-            # If the asserts above passed, this must be correct
-            print([x["pmid"] for x in bibs])
-            print(pmid_set)
-            assert len(bibs) == len(
-                pmid_set
-            ), f"Something went horribly wrong? : {len(bibs)} vs {len(pmid_set)}"
-
-            # Save the bib files...
-            for single_bib in bibs:
-                # ... as single files...
-                filename = "{}.md".format(single_bib["title"])
-                # Replace weird {}
-                filename = filename.replace("/", "").replace("}", "").replace("{", "")
-
-                # Check for optional fields
-                optional = ["journal"]
-                for field in optional:
-                    if field not in single_bib:
-                        print(f"WARNING: Entry {single_bib['pmid']} does not have {field}")
-
-                with (output_dir / folder_name / value / filename).open(
-                    "w+"
-                ) as out_file:
-                    out_file.write(
-                        TEMPLATE.format(
-                            title=single_bib["title"].replace("{", "").replace("}", ""),
-                            authors=single_bib["author"],
-                            year=single_bib["year"],
-                            # This is pretty bad, but it takes the single data from
-                            # the table @ col = col and pmid_col = pmid
-                            scope=table["SCOPE"][
-                                table[pmid_col] == single_bib["pmid"]
-                            ].to_list()[0],
-                            target=table["TARGET"][
-                                table[pmid_col] == single_bib["pmid"]
-                            ].to_list()[0],
-                            transportome=table["TRANSPORTOME"][
-                                table[pmid_col] == single_bib["pmid"]
-                            ].to_list()[0],
-                            # The following are optional
-                            journal=single_bib.get("journal", "N/A"),
-                            doi=single_bib["doi"],
-                            pmid=single_bib["pmid"],
-                            abstract=single_bib["abstract"]
-                            if "abstract" in single_bib
-                            else "N/A",
-                        )
-                    )
-            # ... and as a single README file in the folder.
-            readme_lines.append(README_SECTION_TEMPLATE.format(value=value))
-            for single_bib in bibs:
-                # This is pretty bad to do, but all of this script is bad, so...
-                template = README_LINE_TEMPLATE_FULL
-                if col == "SCOPE":
-                    template = README_LINE_TEMPLATE_SCOPE
-                if col == "YEAR":
-                    template = README_LINE_TEMPLATE_YEAR
-                readme_lines.append(
-                    template.format(
-                        year=single_bib["year"],
-                        scope=table["SCOPE"][
-                            table[pmid_col] == single_bib["pmid"]
-                        ].to_list()[0],
-                        title=single_bib["title"].replace("{", "").replace("}", ""),
-                        doi=single_bib["doi"].replace(")", "\\)"),
-                        pmid=single_bib["pmid"],
+        files.append((output_dir / vars["display"] / "README.md", readme))
+        for value, sublist in sublists.items():
+            base_path = output_dir / vars["display"] / str(value)
+            # Save each entry file
+            for entry in sublist:
+                files.append(
+                    (
+                        base_path / get_file_title_from_entry(entry),
+                        make_page_from_entry(entry, PAGE_TEMPLATE),
                     )
                 )
+            # Save the bib
+            files.append(
+                (
+                    base_path / ".library.bib",
+                    io.StringIO(bibx.dumps(get_bib_from_entries(sublist, bib))),
+                )
+            )
 
-            # Write out the .bib file for this folder alongside the README.
-            with (output_dir / folder_name / value / ".library.bib").open(
-                "w+"
-            ) as out_file:
-                sub_bib_data = bibx.bibdatabase.BibDatabase()
-                sub_bib_data.entries = bibs
-                bibx.dump(sub_bib_data, out_file)
+    log.info(f"Writing {len(files)} files...")
+    for file in files:
+        write_file(file)
 
-        readme_content = README_TEMPLATE.format(readme_lines="\n".join(readme_lines))
-        with (output_dir / folder_name / "README.md").open("w+") as out_file:
-            out_file.write(readme_content)
-
+    log.info(f"Done regenerating {output_dir}!")
 
 if __name__ == "__main__":
     import argparse
@@ -223,18 +296,10 @@ if __name__ == "__main__":
         help="A .csv file with specific columns to use to guide the population of the library.",
     )
     parser.add_argument("out_dir", type=Path, help="Output directory to save files to.")
-    parser.add_argument(
-        "--pmid_col",
-        type=str,
-        default="PMID",
-        help="The name of the column with Pubmed IDs in the filter_csv file.",
-    )
-
     args = parser.parse_args()
 
     main(
         bib_file=args.bib_file,
-        csv_structure=args.csv_structure,
+        csv_file=args.csv_structure,
         output_dir=args.out_dir,
-        pmid_col=args.pmid_col,
     )

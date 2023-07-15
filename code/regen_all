@@ -15,13 +15,13 @@ sleep 1
 echo "Removing library..."
 rm -rf ../Library/*
 
-echo "Regenerating 'Cancer' library..."
+echo "Regenerating 'Reviews/Cancer' library..."
 mkdir -p ../Library/Reviews/Cancer
-./regen_lib.py ./source_data/library.bib ./source_data/Cancer.csv "../Library/Reviews/Cancer"
+./regen_lib.py ./source_data/library.bib ./source_data/review_cancer.csv "../Library/Reviews/Cancer"
 
-echo "Regenerating 'Non Cancer' library..."
+echo "Regenerating 'Reviews/Non Cancer' library..."
 mkdir -p "../Library/Reviews/Non cancer"
-./regen_lib.py ./source_data/library.bib ./source_data/NonCancer.csv "../Library/Reviews/Non cancer/"
+./regen_lib.py ./source_data/library.bib ./source_data/review_noncancer.csv "../Library/Reviews/Non cancer/"
 
 echo "Regenerating 'Articles' library..."
 mkdir "../Library/Research Articles"
