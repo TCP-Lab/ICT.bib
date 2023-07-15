@@ -15,4 +15,4 @@ More information on the generative algorithm is in the source code itself.
 - Create a Python virtual environment and activate it (`python -m venv env && source ./env/bin/activate`).
 - Install required dependencies: `pip install -r requirements.txt`
 - Delete the contents of the `Library` folder (`rm -rf ../Library/*`);
-- Run `regen_lib.py` to regenerate the library. The `regen_all` `zsh` script deletes the library and runs these commands for you (to regenerate the `Cancer` and `Non cancer` folders).
+- Run `regen_lib.py` to regenerate the library. The `regen_all` `zsh` script deletes the library and runs these commands for you. You can inspect it to see how it works.
