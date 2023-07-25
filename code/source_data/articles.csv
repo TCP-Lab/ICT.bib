@@ -1,56 +1,53 @@
-SCOPE,METHOD,TARGET,YEAR,TRANSPORTOME,PMID
-Disease,Differential Expression,Cardiac Muscle,2005,Ion channels,16027256
-Development,Expression Profiling,Cardiac Muscle,2007,Ion channels,16985003
-Basic,Expression Profiling,Lymnea stagnalis,2021,Ion channels,33407100
-Basic,Expression Profiling,Nervous System,2013,Ion channels,24260241
-Osmoregulation,Differential Expression,Eriocheir sinensis,2021,ICTs,33430106
-Osmoregulation,Differential Expression,Aedes aegypti,2021,ICTs,34174320
-Basic,Expression Profiling,Platelets,2016,Ion channels,27277069
-Development,Differential Expression,Cell line,2003,ICTs,12608530
-Disease,Differential Expression,Crohn's Disease,2016,ICTs,26874350
-Development,Differential Expression,Kidney,2017,ICTs,29130966
-Development,Differential Expression,Kidney,2020,ICTs,32798560
-Basic,Functional Proteomics,Mesenchymal Stem Cells,2006,Ion channels,16484345
-Basic,Functional Proteomics,Mesenchymal Stem Cells,2005,Ion channels,15749932
-Development,Expression Profiling,Drosophila Melanogaster,2019,Ion channels,30733380
-Cancer,Differential Expression,Cancer Cell Line,2004,ICTs,15205344
-Cancer,Differential Expression,Breast Cancer,2013,Ion channels,24053408
-Cancer,Differential Expression,Lung Cancer,2014,Ion channels,24466154
-Cancer,Differential Expression,Brain Cancer,2015,Ion channels,26235283
-Cancer,Differential Expression,Brain Cancer,2017,Ion channels,28264064
-Cancer,Differential Expression,Pancreatic Cancer,2016,ICTs,27652669
-Cell Migration,Differential Expression,Pancreatic Cancer,2017,Ion channels,27903970
-Cancer,Differential Expression,Pancreatic Cancer,2020,ICTs,32228510
-Cancer,Expression Profiling,Cancer,2014,transporters,24317012
-Cancer,Differential Expression,Gastric Cancer,2020,transporters,31669256
-Cancer,Differential Expression,Cancer Cell Line,2016,transporters,27620070
-Cancer,Differential Expression,Head and Neck Cancer,2011,transporters,20737486
-Basic,Expression Profiling,Saccaromyces cerevisiae,2017,transporters,29145596
-Basic,Expression Profiling,Saccaromyces cerevisiae,2021,transporters,33465478
-Basic,Expression Profiling,Starmerella bombicola,2022,ICTs,34998388
-Basic,Expression Profiling,Candida glabrata,2018,ABCs,30153284
-Basic,Expression Profiling,Candida albicans,2008,transporters,19055746
-Basic,Expression Profiling,Aspergillus niger,2015,transporters,26388937
-Basic,Expression Profiling,"Aspergillus niger, Trichoderma reesei",2016,transporters,27446237
-Basic,Expression Profiling,Laccaria bicolor,2008,transporters,18665901
-Basic,Differential Expression,Pucciniales,2023,transporters,36044359
-Disease,Differential Expression,Escherichia Coli,2014,transporters,24747185
-Disease,Differential Expression,"Escherichia coli, Salmonella enterica",2017,transporters,28344124
-Disease,Differential Expression,Bacteroides,2018,transporters,30517169
-Basic,Expression Profiling,Treponema,2019,ICTs,31029716
-Basic,Expression Profiling,Lactobacillus,2020,ICTs,33096690
-Basic,Expression Profiling,Bifidobacterium,2022,ICTs,34555832
-Basic,Expression Profiling,Asgard Archea,2021,ICTs,33770091
-Basic,Proteomics,Arabidopsis thaliana,2011,ICTs,21413151
-Basic,"Differential Analysis, Expression Profiling",Coffea,2021,ICTs,34620453
-Basic,Expression Profiling,Arabidopsis thaliana,2018,transporters,30310073
-Symbiosis,Differential Analysis,"Populus trichocarpa, Rhizophagus irregularis",2017,ICTs,28387868
-Symbiosis,Differential Analysis,"Rhizophagus irregularis, Populus trichocarpa, Sorghum bicolor ",2019,ICTs,31921260
-Symbiosis,Differential Analysis,"Cladonia grayi, Asterochloris glomerata ",2019,ICTs,31337355
-Metagenomic,Machine Learning,Pseudomonad,2015,ICTs,26332409
-Symbiosis,Differential Expression,Pseudomonas fluorescens,2017,ICTs,28377780
-Basic,Differential Expression,"Bacteria, Archea, Eukaria",2018,ICTs,29848286
-Basic,Differential Expression,Brassica napus,2017,transporters,29312362
-Tool Development,N/A,Arabidopsis thaliana,2023,ICTs,36973414
-Basic,Expression Profiling,Rhizobia,2006,ICTs,17101990
-"Disease, Tool Development",Differential Expression,Pseudomonas,2014,ICTs,25569960
+MACROAREA,PMID,TOPIC,TRANSPORTOME
+Cardiovascular system,16027256,Valvular Heart Disease and Atrial Fibrillation,ICTs
+Cardiovascular system,16985003,Heart Development,Ion Channels
+Nervous system,33407100,Lymnaea stagnalis CNS,Ion Channels
+Nervous system,24260241,Pain sensation through DRG and TG,Ion Channels
+Osmotic homeostasis,33430106,Eriocheir sinensis adaptation to salinity,ICTs
+Osmotic homeostasis,34174320,Aedes aegypti adaptation to salinity,ICTs
+Platelets,27277069,Ion channelome Profiling,Ion Channels
+Gastrointestinal tract,12608530,Intestine absorptive capacity,ICTs
+Gastrointestinal tract,26874350,Commensal bacteria in Crohn’s disease,ICTs
+Development,32798560,Kidney in fetal growth restriction,ICTs
+Development,16484345,Bone Marrow Mesenchymal Stem Cells,Ion Channels
+Development,15749932,Bone Marrow Mesenchymal Stem Cells,Ion Channels
+Development,30733380,Drosophila Melanogaster Wing Development,Ion Channels
+Cancer,15205344,Chemosensitivity and Chemoresistance,ICTs
+Cancer,31669256,Chemosensitivity and Chemoresistance,Transporters
+Cancer,27620070,Chemosensitivity and Chemoresistance,Transporters
+Cancer,20737486,Chemosensitivity and Chemoresistance,Transporters
+Cancer,24053408,Markers for Breast cancer,Ion Channels
+Cancer,24466154,Markers for Lung cancer,Ion Channels
+Cancer,26235283,Markers for Glioma,Ion Channels
+Cancer,28264064,Glioblastoma stem cells,ICTs
+Cancer,27652669,Pancreatic Ductal Adenocarcinoma,ICTs
+Cancer,32228510,Pancreatic Ductal Adenocarcinoma,ICTs
+Yeasts and Fungi,29145596,Saccharomyces cerevisiae,Transporter
+Yeasts and Fungi,33465478,Saccharomyces cerevisiae,ICTs
+Yeasts and Fungi,34998388,Starmerella bombicola,ICTs
+Yeasts and Fungi,30153284,Candida glabrata,Transporters
+Yeasts and Fungi,19055746,Candida albicans,Transporters
+Yeasts and Fungi,26388937,Aspergillus niger,Transporters
+Yeasts and Fungi,27446237,Aspergillus niger and Trichoderma reesei,Transporters
+Yeasts and Fungi,18665901,Laccaria bicolor,Transporters
+Yeasts and Fungi,36044359,Rust Fungi (Pucciniales),ICTs
+Bacteria and Archaea,24747185,E. coli strains,ICTs
+Bacteria and Archaea,28344124,E. coli and Salmonella enterica,ICTs
+Bacteria and Archaea,30517169,Bacteroides,ICTs
+Bacteria and Archaea,31029716,Treponema,ICTs
+Bacteria and Archaea,33096690,Lactobacillus,ICTs
+Bacteria and Archaea,34555832,Bifidobacterium,ICTs
+Bacteria and Archaea,33770091,Asgard archaeal superphylum,ICTs
+Plants,29312362,Brassica napus L,ICTs
+Plants,21413151,Arabidopsis thaliana,ICTs
+Plants,30310073,Arabidopsis thaliana,ICTs
+Plants,36973414,Knock CRISPR toolbox,ICTs
+Plants,34620453,Coffea canephora (Coffee),ICTs
+Symbiotic systems,28387868,Nitrogen starvation,Transporters
+Symbiotic systems,31921260,Phosphate availability,Transporters
+Symbiotic systems,31337355,Lichens,ICTs
+Symbiotic systems,17101990,Sinorhizobium meliloti,Transporters
+Symbiotic systems,25569960,Pseudomonas,ICTs
+Symbiotic systems,26332409,Pseudomonas,ICTs
+Symbiotic systems,28377780,Pseudomonas,ICTs
+Theoretical,29848286,Energy consumption,ICTs

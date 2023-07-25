@@ -1,0 +1,17 @@
+# Identification and Functional Characterization of Novel Xylose Transporters from the Cell Factories Aspergillus Niger and Trichoderma Reesei
+
+> By Sloothaak, Jasper and Tamayo-Ramos, Juan Antonio and Odoni, Dorett I. and Laothanachareon, Thanaporn and Derntl, Christian and Mach-Aigner, Astrid R. and Martins Dos Santos, Vitor A. P. and Schaap, Peter J.
+
+- **Macro-area**: Yeasts and Fungi
+- **Topic**: Aspergillus niger and Trichoderma reesei
+- **Year**: 2016
+- **Transportome layer investigated**: Transporters
+
+- References:
+  - Journal: Biotechnol Biofuels
+  - DOI: [10.1186/s13068-016-0564-4](https://doi.org/10.1186/s13068-016-0564-4)
+  - PMID: 27446237
+
+### Abstract
+
+BACKGROUND: Global climate change and fossil fuels limitations have boosted the demand for robust and efficient microbial factories for the manufacturing of bio-based products from renewable feedstocks. In this regard, efforts have been done to enhance the enzyme-secreting ability of lignocellulose-degrading fungi, aiming to improve protein yields while taking advantage of their ability to use lignocellulosic feedstocks. Access to sugars in complex polysaccharides depends not only on their release by specific hydrolytic enzymes, but also on the presence of transporters capable of effectively transporting the constituent sugars into the cell. This study aims to identify and characterize xylose transporters from Aspergillus niger and Trichoderma reesei, two fungi that have been industrially exploited for decades for the production of lignocellulose-degrading hydrolytic enzymes. RESULTS: A hidden Markov model for the identification of xylose transporters was developed and used to analyze the A. niger and T. reesei in silico proteomes, yielding a list of candidate xylose transporters. From this list, three A. niger (XltA, XltB and XltC) and three T. reesei (Str1, Str2 and Str3) transporters were selected, functionally validated and biochemically characterized through their expression in a Saccharomyces cerevisiae hexose transport null mutant, engineered to be able to metabolize xylose but unable to transport this sugar. All six transporters were able to support growth of the engineered yeast on xylose but varied in affinities and efficiencies in the uptake of the pentose. Amino acid sequence analysis of the selected transporters showed the presence of specific residues and motifs recently associated to xylose transporters. Transcriptional analysis of A. niger and T. reesei showed that XltA and Str1 were specifically induced by xylose and dependent on the XlnR/Xyr1 regulators, signifying a biological role for these transporters in xylose utilization. CONCLUSIONS: This study revealed the existence of a variety of xylose transporters in the cell factories A. niger and T. reesei. The particular substrate specificity and biochemical properties displayed by A. niger XltA and XltB suggested a possible biological role for these transporters in xylose uptake. New insights were also gained into the molecular mechanisms regulating the pentose utilization, at inducer uptake level, in these fungi. Analysis of the A. niger and T. reesei predicted transportome with the newly developed hidden Markov model showed to be an efficient approach for the identification of new xylose transporting proteins.
