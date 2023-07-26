@@ -1,5 +1,27 @@
 # Index 
 
+- Ion Channels
+  - (2005) - Bone Marrow Mesenchymal Stem Cells: [Characterization of ionic currents in human mesenchymal stem cells from bone marrow](https://doi.org/10.1634/STEMCELLS.2004-0213) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/15749932))
+
+  - (2006) - Bone Marrow Mesenchymal Stem Cells: [Ion channels in mesenchymal stem cells from rat bone marrow](https://doi.org/10.1634/STEMCELLS.2005-0307) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/16484345))
+
+  - (2007) - Heart Development: [Large-scale analysis of ion channel gene expression in the mouse heart during perinatal development](https://doi.org/10.1152/physiolgenomics.00163.2006) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/16985003))
+
+  - (2013) - Markers for Breast cancer: [Expression profiling of ion channel genes predicts clinical outcome in breast cancer](https://doi.org/10.1186/1476-4598-12-106) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24053408))
+
+  - (2013) - Pain sensation through DRG and TG: [Comprehensive RNA-Seq expression analysis of sensory ganglia with a focus on ion channels and GPCRs in Trigeminal ganglia](https://doi.org/10.1371/JOURNAL.PONE.0079523) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24260241))
+
+  - (2014) - Markers for Lung cancer: [Ion channel gene expression in lung adenocarcinoma: potential role in prognosis and diagnosis](https://doi.org/10.1371/JOURNAL.PONE.0086569) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24466154))
+
+  - (2015) - Markers for Glioma: [Ion channel gene expression predicts survival in glioma patients](https://doi.org/10.1038/SREP11593) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26235283))
+  - (2016) - Ion channelome Profiling: [Transcriptomic analysis of the ion channelome of human platelets and megakaryocytic cell lines](https://doi.org/10.1160/TH15-11-0891) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27277069))
+
+  - (2019) - Drosophila Melanogaster Wing Development: [Ion Channel Contributions to Wing Development in Drosophila melanogaster](https://doi.org/10.1534/G3.119.400028) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/30733380))
+
+  - (2021) - Lymnaea stagnalis CNS: [Ion channel profiling of the Lymnaea stagnalis ganglia via transcriptome analysis](https://doi.org/10.1186/S12864-020-07287-2) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33407100))
+
+- Transporter
+  - (2017) - Saccharomyces cerevisiae: [A CRISPR/Cas9-based exploration into the elusive mechanism for lactate export in Saccharomyces cerevisiae](https://doi.org/10.1093/femsyr/fox085) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/29145596))
 - ICTs
   - (2003) - Intestine absorptive capacity: [Messenger RNA expression of transporter and ion channel genes in undifferentiated and differentiated Caco-2 cells compared to human intestines](https://doi.org/10.1023/A:1022282221530) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/12608530))
 
@@ -32,6 +54,7 @@
   - (2018) - Bacteroides: [Comparative genomics of transport proteins in seven Bacteroides species](https://doi.org/10.1371/JOURNAL.PONE.0208151) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/30517169))
 
   - (2018) - Energy consumption: [Energetic evolution of cellular Transportomes](https://doi.org/10.1186/s12864-018-4816-5) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/29848286))
+
   - (2019) - Lichens: [The lichen symbiosis re-viewed through the genomes of Cladonia grayi and its algal partner Asterochloris glomerata](https://doi.org/10.1186/s12864-019-5629-x) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31337355))
 
   - (2019) - Treponema: [Comparative genomics of the transportome of Ten Treponema species](https://doi.org/10.1016/J.MICPATH.2019.04.034) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31029716))
@@ -46,6 +69,7 @@
 
   - (2021) - Asgard archaeal superphylum: [Comparative population genomic analyses of transporters within the Asgard archaeal superphylum](https://doi.org/10.1371/journal.pone.0247806) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33770091))
 
+  - (2021) - Chondrogenic Progenitor Cells: [Transcriptome-Based Screening of Ion Channels and Transporters in a Migratory Chondroprogenitor Cell Line Isolated from Late-Stage Osteoarthritic Cartilage](https://doi.org/10.1002/jcp.30413) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34008188))
   - (2021) - Coffea canephora (Coffee): [Genomic and Transcriptomic Inventory of Membrane Transporters in Coffee: Exploring Molecular Mechanisms of Metabolite Accumulation](https://doi.org/10.1016/j.plantsci.2021.111018) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34620453))
 
   - (2021) - Eriocheir sinensis adaptation to salinity: [Role of Transportome in the Gills of Chinese Mitten Crabs in Response to Salinity Change: A Meta-Analysis of RNA-Seq Datasets](https://doi.org/10.3390/BIOLOGY10010039) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33430106))
@@ -60,28 +84,6 @@
 
   - (2023) - Rust Fungi (Pucciniales): [A Remarkable Expansion of Oligopeptide Transporter Genes in Rust Fungi (Pucciniales) Suggests a Specialization in Nutrient Acquisition for Obligate Biotrophy](https://doi.org/10.1094/PHYTO-04-22-0128-R) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/36044359))
 
-- Ion Channels
-  - (2005) - Bone Marrow Mesenchymal Stem Cells: [Characterization of ionic currents in human mesenchymal stem cells from bone marrow](https://doi.org/10.1634/STEMCELLS.2004-0213) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/15749932))
-
-  - (2006) - Bone Marrow Mesenchymal Stem Cells: [Ion channels in mesenchymal stem cells from rat bone marrow](https://doi.org/10.1634/STEMCELLS.2005-0307) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/16484345))
-
-  - (2007) - Heart Development: [Large-scale analysis of ion channel gene expression in the mouse heart during perinatal development](https://doi.org/10.1152/physiolgenomics.00163.2006) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/16985003))
-
-  - (2013) - Markers for Breast cancer: [Expression profiling of ion channel genes predicts clinical outcome in breast cancer](https://doi.org/10.1186/1476-4598-12-106) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24053408))
-
-  - (2013) - Pain sensation through DRG and TG: [Comprehensive RNA-Seq expression analysis of sensory ganglia with a focus on ion channels and GPCRs in Trigeminal ganglia](https://doi.org/10.1371/JOURNAL.PONE.0079523) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24260241))
-
-  - (2014) - Markers for Lung cancer: [Ion channel gene expression in lung adenocarcinoma: potential role in prognosis and diagnosis](https://doi.org/10.1371/JOURNAL.PONE.0086569) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24466154))
-
-  - (2015) - Markers for Glioma: [Ion channel gene expression predicts survival in glioma patients](https://doi.org/10.1038/SREP11593) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26235283))
-  - (2016) - Ion channelome Profiling: [Transcriptomic analysis of the ion channelome of human platelets and megakaryocytic cell lines](https://doi.org/10.1160/TH15-11-0891) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27277069))
-
-  - (2019) - Drosophila Melanogaster Wing Development: [Ion Channel Contributions to Wing Development in Drosophila melanogaster](https://doi.org/10.1534/G3.119.400028) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/30733380))
-
-  - (2021) - Lymnaea stagnalis CNS: [Ion channel profiling of the Lymnaea stagnalis ganglia via transcriptome analysis](https://doi.org/10.1186/S12864-020-07287-2) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33407100))
-
-- Transporter
-  - (2017) - Saccharomyces cerevisiae: [A CRISPR/Cas9-based exploration into the elusive mechanism for lactate export in Saccharomyces cerevisiae](https://doi.org/10.1093/femsyr/fox085) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/29145596))
 - Transporters
   - (2006) - Sinorhizobium meliloti: [Mapping the Sinorhizobium Meliloti 1021 Solute-Binding Protein-Dependent Transportome](https://doi.org/10.1073/pnas.0606673103) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/17101990))
   - (2008) - Candida albicans: [MFS transportome of the human pathogenic yeast Candida albicans.](https://doi.org/10.1186/1471-2164-9-579) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/19055746))

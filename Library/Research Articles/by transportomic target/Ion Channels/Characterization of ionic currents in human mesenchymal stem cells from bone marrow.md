@@ -2,7 +2,7 @@
 
 > By Li, Gui‐Rong and Sun, Haiying and Deng, Xiuling and Lau, Chu‐Pak
 
-- **Macro-area**: Development
+- **Macro-area**: Stem Cells
 - **Topic**: Bone Marrow Mesenchymal Stem Cells
 - **Year**: 2005
 - **Transportome layer investigated**: Ion Channels

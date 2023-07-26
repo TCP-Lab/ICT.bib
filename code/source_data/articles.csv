@@ -9,8 +9,8 @@ Platelets,27277069,Ion channelome Profiling,Ion Channels
 Gastrointestinal tract,12608530,Intestine absorptive capacity,ICTs
 Gastrointestinal tract,26874350,Commensal bacteria in Crohn’s disease,ICTs
 Development,32798560,Kidney in fetal growth restriction,ICTs
-Development,16484345,Bone Marrow Mesenchymal Stem Cells,Ion Channels
-Development,15749932,Bone Marrow Mesenchymal Stem Cells,Ion Channels
+Stem Cells,16484345,Bone Marrow Mesenchymal Stem Cells,Ion Channels
+Stem Cells,15749932,Bone Marrow Mesenchymal Stem Cells,Ion Channels
 Development,30733380,Drosophila Melanogaster Wing Development,Ion Channels
 Cancer,15205344,Chemosensitivity and Chemoresistance,ICTs
 Cancer,31669256,Chemosensitivity and Chemoresistance,Transporters
@@ -51,3 +51,4 @@ Symbiotic systems,25569960,Pseudomonas,ICTs
 Symbiotic systems,26332409,Pseudomonas,ICTs
 Symbiotic systems,28377780,Pseudomonas,ICTs
 Theoretical,29848286,Energy consumption,ICTs
+Stem Cells,34008188,Chondrogenic Progenitor Cells,ICTs
