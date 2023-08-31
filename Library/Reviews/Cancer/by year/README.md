@@ -1,5 +1,47 @@
 # Index 
 
+- 2020
+  - Cholangiocarcinoma: [Plasma Membrane Transporters as Biomarkers and Molecular Targets in Cholangiocarcinoma](https://doi.org/10.3390/CELLS9020498) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32098199))
+
+  - Colorectal cancer (CRC): [Physiological and pathophysiological role of ion channels and transporters in the colorectum and colorectal cancer](https://doi.org/10.1111/JCMM.15600) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32662230))
+
+  - Gastric cancer: [Physiological Significance of Ion Transporters and Channels in the Stomach and Pathophysiological Relevance in Gastric Cancer](https://doi.org/10.1155/2020/2869138) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32104192))
+
+  - PDAC and healthy pancreas: [Ion Channel Signature in Healthy Pancreas and Pancreatic Ductal Adenocarcinoma](https://doi.org/10.3389/FPHAR.2020.568993) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33178018))
+- 2016
+  - Angiogenesis: [Involvement of ion channels and transporters in carcinoma angiogenesis and metastasis](https://doi.org/10.1152/AJPCELL.00218.2015) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26791487))
+
+  - Metastasis: [A role for ion channels in perivascular glioma invasion](https://doi.org/10.1007/S00249-016-1154-X) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27424110))
+- 2019
+  - Colorectal cancer (CRC): [Role of ion channels in gastrointestinal cancer](https://doi.org/10.3748/WJG.V25.I38.5732) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31636470))
+
+  - Liver Cancer: [Role of transportome in the pharmacogenomics of hepatocellular carcinoma and hepatobiliary cancer](https://doi.org/10.2217/PGS-2019-0033) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31486734))
+- 2013
+  - Clinical potential: [Ovarian cancer: Ion channel and aquaporin expression as novel targets of clinical potential](https://doi.org/10.1016/J.EJCA.2013.03.016) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/23683551))
+- 2015
+  - Angiogenesis: [Systems biology of ion channels and transporters in tumor angiogenesis: An omics view](https://doi.org/10.1016/J.BBAMEM.2014.10.031) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25450338))
+
+  - Cancer biomarkers: [Ion channel expression as promising cancer biomarker](https://doi.org/10.1016/J.BBAMEM.2014.12.016) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25542783))
+
+  - Life/death decisions in cancer cells : [Ion channels in the regulation of apoptosis](https://doi.org/10.1016/J.BBAMEM.2014.10.030) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25450339))
+
+  - Metastasis: [Ion channels and transporters in metastasis](https://doi.org/10.1016/J.BBAMEM.2014.11.012) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25445667))
+
+  - Tumor development: [Cancer as a channelopathy: ion channels and pumps in tumor development and progression](https://doi.org/10.3389/FNCEL.2015.00086) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25852478))
+- 2014
+  - Angiogenesis: [Functional properties of ion channels and transporters in tumour vascularization](https://doi.org/10.1098/RSTB.2013.0103) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493751))
+
+  - Chemoresistance and Chemosensitivity: [Ion channels and transporters in the development of drug resistance in cancer cells](https://doi.org/10.1098/RSTB.2013.0109) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493757))
+
+  - Chemoresistance and Chemosensitivity: [The role of reduced intracellular concentrations of active drugs in the lack of response to anticancer chemotherapy](https://doi.org/10.1038/APS.2013.131) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24317012))
+
+  - Life/death decisions in cancer cells : [Ion channels and apoptosis in cancer](https://doi.org/10.1098/RSTB.2013.0104) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493752))
+
+  - Metastasis: [Ion channels and transporters in tumour cell migration and invasion](https://doi.org/10.1098/RSTB.2013.0102) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493750))
+
+  - Metastasis: [Ion transport and cancer: from initiation to metastasis](https://doi.org/10.1098/RSTB.2013.0092) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493741))
+
+  - Therapeutic potential: [Ion channels in cancer: future perspectives and clinical potential](https://doi.org/10.1098/RSTB.2013.0108) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493756))
 - 2021
   - Cancer Hallmarks: [Transportome Malfunctions and the Hallmarks of Pancreatic Cancer](https://doi.org/10.1007/112_2020_20) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32770395))
 
@@ -24,50 +66,6 @@
   - Glioma Malignancy: [Ion Channels in Glioma Malignancy](https://doi.org/10.1007/112_2020_44) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32930879))
 
   - Tumor Microenvironment: [Effects of the Tumor Environment on Ion Channels: Implication for Breast Cancer Progression](https://doi.org/10.1007/112_2020_19) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32761457))
-- 2004
-  - Chemoresistance and Chemosensitivity: [Membrane transporters and channels: role of the transportome in cancer chemosensitivity and chemoresistance](https://doi.org/10.1158/0008-5472.CAN-03-3884) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/15205344))
-- 2014
-  - Angiogenesis: [Functional properties of ion channels and transporters in tumour vascularization](https://doi.org/10.1098/RSTB.2013.0103) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493751))
-
-  - Chemoresistance and Chemosensitivity: [Ion channels and transporters in the development of drug resistance in cancer cells](https://doi.org/10.1098/RSTB.2013.0109) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493757))
-
-  - Chemoresistance and Chemosensitivity: [The role of reduced intracellular concentrations of active drugs in the lack of response to anticancer chemotherapy](https://doi.org/10.1038/APS.2013.131) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24317012))
-
-  - Life/death decisions in cancer cells : [Ion channels and apoptosis in cancer](https://doi.org/10.1098/RSTB.2013.0104) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493752))
-
-  - Metastasis: [Ion channels and transporters in tumour cell migration and invasion](https://doi.org/10.1098/RSTB.2013.0102) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493750))
-
-  - Metastasis: [Ion transport and cancer: from initiation to metastasis](https://doi.org/10.1098/RSTB.2013.0092) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493741))
-
-  - Therapeutic potential: [Ion channels in cancer: future perspectives and clinical potential](https://doi.org/10.1098/RSTB.2013.0108) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493756))
-- 2016
-  - Angiogenesis: [Involvement of ion channels and transporters in carcinoma angiogenesis and metastasis](https://doi.org/10.1152/AJPCELL.00218.2015) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26791487))
-
-  - Metastasis: [A role for ion channels in perivascular glioma invasion](https://doi.org/10.1007/S00249-016-1154-X) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27424110))
-- 2013
-  - Clinical potential: [Ovarian cancer: Ion channel and aquaporin expression as novel targets of clinical potential](https://doi.org/10.1016/J.EJCA.2013.03.016) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/23683551))
-- 2015
-  - Angiogenesis: [Systems biology of ion channels and transporters in tumor angiogenesis: An omics view](https://doi.org/10.1016/J.BBAMEM.2014.10.031) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25450338))
-
-  - Cancer biomarkers: [Ion channel expression as promising cancer biomarker](https://doi.org/10.1016/J.BBAMEM.2014.12.016) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25542783))
-
-  - Life/death decisions in cancer cells : [Ion channels in the regulation of apoptosis](https://doi.org/10.1016/J.BBAMEM.2014.10.030) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25450339))
-
-  - Metastasis: [Ion channels and transporters in metastasis](https://doi.org/10.1016/J.BBAMEM.2014.11.012) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25445667))
-
-  - Tumor development: [Cancer as a channelopathy: ion channels and pumps in tumor development and progression](https://doi.org/10.3389/FNCEL.2015.00086) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25852478))
-- 2020
-  - Cholangiocarcinoma: [Plasma Membrane Transporters as Biomarkers and Molecular Targets in Cholangiocarcinoma](https://doi.org/10.3390/CELLS9020498) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32098199))
-
-  - Colorectal cancer (CRC): [Physiological and pathophysiological role of ion channels and transporters in the colorectum and colorectal cancer](https://doi.org/10.1111/JCMM.15600) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32662230))
-
-  - Gastric cancer: [Physiological Significance of Ion Transporters and Channels in the Stomach and Pathophysiological Relevance in Gastric Cancer](https://doi.org/10.1155/2020/2869138) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32104192))
-
-  - PDAC and healthy pancreas: [Ion Channel Signature in Healthy Pancreas and Pancreatic Ductal Adenocarcinoma](https://doi.org/10.3389/FPHAR.2020.568993) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33178018))
-- 2019
-  - Colorectal cancer (CRC): [Role of ion channels in gastrointestinal cancer](https://doi.org/10.3748/WJG.V25.I38.5732) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31636470))
-
-  - Liver Cancer: [Role of transportome in the pharmacogenomics of hepatocellular carcinoma and hepatobiliary cancer](https://doi.org/10.2217/PGS-2019-0033) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31486734))
 - 2022
   - Chemotherapy Adverse Effects: [Contribution of membrane transporters to chemotherapy-induced cardiotoxicity](https://doi.org/10.1111/BCPT.13635) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34237188))
 

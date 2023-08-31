@@ -2,7 +2,7 @@
 
 > By Guo, Yanyan and Lu, Yan and Wang, Jun and Zhu, Liangliang and Liu, Xiaomei
 
-- **Macro-area**: Development
+- **Macro-area**: Development and regeneration
 - **Topic**: Kidney in fetal growth restriction
 - **Year**: 2020
 - **Transportome layer investigated**: ICTs

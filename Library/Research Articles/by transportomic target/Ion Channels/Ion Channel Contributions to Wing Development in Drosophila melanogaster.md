@@ -2,7 +2,7 @@
 
 > By George, Laura Faith and Pradhan, Sarala Joshi and Mitchell, Danae and Josey, Megan and Casey, Justin and Belus, Matthew T. and Fedder, Karlie N. and Raj Dahal, Giri and Bates, Emily Anne
 
-- **Macro-area**: Development
+- **Macro-area**: Development and regeneration
 - **Topic**: Drosophila Melanogaster Wing Development
 - **Year**: 2019
 - **Transportome layer investigated**: Ion Channels
