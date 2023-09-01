@@ -1,7 +1,9 @@
 # Index 
 
-- Transporter
-  - (2017) - Saccharomyces cerevisiae: [A CRISPR/Cas9-based exploration into the elusive mechanism for lactate export in Saccharomyces cerevisiae](https://doi.org/10.1093/femsyr/fox085) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/29145596))
+- SLCs
+  - (2015) - Nephron solute carrier profiling: [Stem Cells and Fluid Flow Drive Cyst Formation in an Invertebrate Excretory Organ](https://doi.org/10.7554/eLife.07405) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26057828))
+  - (2021) - Nephron solute carrier profiling: ["SLC-omics" of the Kidney: Solute Transporters along the Nephron](https://doi.org/10.1152/ajpcell.00197.2021) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34191628))
+
 - Ion Channels
   - (2005) - Bone Marrow Mesenchymal Stem Cells: [Characterization of ionic currents in human mesenchymal stem cells from bone marrow](https://doi.org/10.1634/STEMCELLS.2004-0213) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/15749932))
 
@@ -23,32 +25,6 @@
 
   - (2020) - Regenerative patterning in axolotl limbs: [Precise Control of Ion Channel and Gap Junction Expression Is Required for Patterning of the Regenerating Axolotl Limb](https://doi.org/10.1387/ijdb.200114jw) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33200809))
   - (2021) - Lymnaea stagnalis CNS: [Ion channel profiling of the Lymnaea stagnalis ganglia via transcriptome analysis](https://doi.org/10.1186/S12864-020-07287-2) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33407100))
-
-- Transporters
-  - (2006) - Sinorhizobium meliloti: [Mapping the Sinorhizobium Meliloti 1021 Solute-Binding Protein-Dependent Transportome](https://doi.org/10.1073/pnas.0606673103) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/17101990))
-  - (2008) - Candida albicans: [MFS transportome of the human pathogenic yeast Candida albicans.](https://doi.org/10.1186/1471-2164-9-579) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/19055746))
-
-  - (2008) - Laccaria bicolor: [A gene repertoire for nitrogen transporters in Laccaria bicolor](https://doi.org/10.1111/j.1469-8137.2008.02580.x) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/18665901))
-
-  - (2011) - Chemosensitivity and Chemoresistance: [Evaluation of drug transporters' significance for multidrug resistance in head and neck squamous cell carcinoma](https://doi.org/10.1002/HED.21559) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/20737486))
-
-  - (2015) - Aspergillus niger: [Aspergillus Niger Membrane-Associated Proteome Analysis for the Identification of Glucose Transporters](https://doi.org/10.1186/s13068-015-0317-9) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26388937))
-
-  - (2016) - Aspergillus niger and Trichoderma reesei: [Identification and Functional Characterization of Novel Xylose Transporters from the Cell Factories Aspergillus Niger and Trichoderma Reesei](https://doi.org/10.1186/s13068-016-0564-4) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27446237))
-
-  - (2016) - Chemosensitivity and Chemoresistance: [Pharmacogenomic analyzis of the responsiveness of gastrointestinal tumor cell lines to drug therapy: A transportome approach](https://doi.org/10.1016/J.PHRS.2016.09.007) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27620070))
-
-  - (2017) - Nitrogen starvation: [Transcriptome analysis of the populus trichocarpa-rhizophagus irregularis mycorrhizal symbiosis: Regulation of plant and fungal transportomes under nitrogen starvation](https://doi.org/10.1093/pcp/pcx044) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/28387868))
-
-  - (2018) - Candida glabrata: [ABC transportome inventory of human pathogenic yeast Candida glabrata: Phylogenetic and expression analysis](https://doi.org/10.1371/journal.pone.0202993) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/30153284))
-
-  - (2019) - Phosphate availability: [Imbalanced Regulation of Fungal Nutrient Transports According to Phosphate Availability in a Symbiocosm Formed by Poplar, Sorghum, and Rhizophagus irregularis](https://doi.org/10.3389/FPLS.2019.01617) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31921260))
-
-  - (2020) - Chemosensitivity and Chemoresistance: [Sensitizing gastric adenocarcinoma to chemotherapy by pharmacological manipulation of drug transporters](https://doi.org/10.1016/J.BCP.2019.113682) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31669256))
-
-- SLCs
-  - (2015) - Nephron solute carrier profiling: [Stem Cells and Fluid Flow Drive Cyst Formation in an Invertebrate Excretory Organ](https://doi.org/10.7554/eLife.07405) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26057828))
-  - (2021) - Nephron solute carrier profiling: ["SLC-omics" of the Kidney: Solute Transporters along the Nephron](https://doi.org/10.1152/ajpcell.00197.2021) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34191628))
 
 - ICTs
   - (2003) - Intestine absorptive capacity: [Messenger RNA expression of transporter and ion channel genes in undifferentiated and differentiated Caco-2 cells compared to human intestines](https://doi.org/10.1023/A:1022282221530) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/12608530))
@@ -111,3 +87,27 @@
   - (2023) - Knock CRISPR toolbox: [Multi-Knock-a Multi-Targeted Genome-Scale CRISPR Toolbox to Overcome Functional Redundancy in Plants](https://doi.org/10.1038/s41477-023-01374-4) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/36973414))
 
   - (2023) - Rust Fungi (Pucciniales): [A Remarkable Expansion of Oligopeptide Transporter Genes in Rust Fungi (Pucciniales) Suggests a Specialization in Nutrient Acquisition for Obligate Biotrophy](https://doi.org/10.1094/PHYTO-04-22-0128-R) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/36044359))
+
+- Transporter
+  - (2017) - Saccharomyces cerevisiae: [A CRISPR/Cas9-based exploration into the elusive mechanism for lactate export in Saccharomyces cerevisiae](https://doi.org/10.1093/femsyr/fox085) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/29145596))
+- Transporters
+  - (2006) - Sinorhizobium meliloti: [Mapping the Sinorhizobium Meliloti 1021 Solute-Binding Protein-Dependent Transportome](https://doi.org/10.1073/pnas.0606673103) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/17101990))
+  - (2008) - Candida albicans: [MFS transportome of the human pathogenic yeast Candida albicans.](https://doi.org/10.1186/1471-2164-9-579) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/19055746))
+
+  - (2008) - Laccaria bicolor: [A gene repertoire for nitrogen transporters in Laccaria bicolor](https://doi.org/10.1111/j.1469-8137.2008.02580.x) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/18665901))
+
+  - (2011) - Chemosensitivity and Chemoresistance: [Evaluation of drug transporters' significance for multidrug resistance in head and neck squamous cell carcinoma](https://doi.org/10.1002/HED.21559) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/20737486))
+
+  - (2015) - Aspergillus niger: [Aspergillus Niger Membrane-Associated Proteome Analysis for the Identification of Glucose Transporters](https://doi.org/10.1186/s13068-015-0317-9) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26388937))
+
+  - (2016) - Aspergillus niger and Trichoderma reesei: [Identification and Functional Characterization of Novel Xylose Transporters from the Cell Factories Aspergillus Niger and Trichoderma Reesei](https://doi.org/10.1186/s13068-016-0564-4) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27446237))
+
+  - (2016) - Chemosensitivity and Chemoresistance: [Pharmacogenomic analyzis of the responsiveness of gastrointestinal tumor cell lines to drug therapy: A transportome approach](https://doi.org/10.1016/J.PHRS.2016.09.007) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27620070))
+
+  - (2017) - Nitrogen starvation: [Transcriptome analysis of the populus trichocarpa-rhizophagus irregularis mycorrhizal symbiosis: Regulation of plant and fungal transportomes under nitrogen starvation](https://doi.org/10.1093/pcp/pcx044) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/28387868))
+
+  - (2018) - Candida glabrata: [ABC transportome inventory of human pathogenic yeast Candida glabrata: Phylogenetic and expression analysis](https://doi.org/10.1371/journal.pone.0202993) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/30153284))
+
+  - (2019) - Phosphate availability: [Imbalanced Regulation of Fungal Nutrient Transports According to Phosphate Availability in a Symbiocosm Formed by Poplar, Sorghum, and Rhizophagus irregularis](https://doi.org/10.3389/FPLS.2019.01617) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31921260))
+
+  - (2020) - Chemosensitivity and Chemoresistance: [Sensitizing gastric adenocarcinoma to chemotherapy by pharmacological manipulation of drug transporters](https://doi.org/10.1016/J.BCP.2019.113682) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31669256))
