@@ -1,7 +1,5 @@
 # Index 
 
-- Transporters
-  - (2015) - Trypanosoma brucei: [Transport proteins determine drug sensitivity and resistance in a protozoan parasite, Trypanosoma brucei](https://doi.org/10.3389/FPHAR.2015.00032) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25814953))
 - ABCs
   - (2011) - Arabidopsis thaliana: [Plant ABC Transporters](https://doi.org/10.1199/TAB.0153) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/22303277))
 - ICTs
@@ -68,6 +66,7 @@
   - (2007) - Retinal pigment epithelium (RPE): [Ion channels in the RPE](https://doi.org/10.1016/J.PRETEYERES.2006.12.002) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/17258931))
 
   - (2008) - Transepithelial transport and vesicular function: [Channelopathies of transepithelial transport and vesicular function](https://doi.org/10.1016/S0065-2660(08)01005-5) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/19185187))
+
   - (2009) - PNS - vestibular nuclei neurons: [Presynaptic and postsynaptic ion channel expression in vestibular nuclei neurons after unilateral vestibular deafferentation](https://doi.org/10.3233/VES-2009-0348) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/20495236))
 
   - (2010) - Channelopathies: [Neurological channelopathies](https://doi.org/10.1146/ANNUREV-NEURO-060909-153122) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/20331364))
@@ -83,3 +82,7 @@
   - (2014) - Kidney: [The renal channelopathies](https://doi.org/10.1177/0004563214531403) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24662008))
 
   - (2019) - New therapeutic concepts: [Eye on ion channels in immune cells](https://doi.org/10.1126/SCISIGNAL.AAW8014) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/30862701))
+
+  - (2022) - Treatment of vascular diseases: [Ion channels in stem cells and their roles in stem cell biology and vascular diseases](https://doi.org/10.1016/J.YJMCC.2022.02.002) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/35143836))
+- Transporters
+  - (2015) - Trypanosoma brucei: [Transport proteins determine drug sensitivity and resistance in a protozoan parasite, Trypanosoma brucei](https://doi.org/10.3389/FPHAR.2015.00032) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25814953))

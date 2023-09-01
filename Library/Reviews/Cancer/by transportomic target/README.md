@@ -1,5 +1,9 @@
 # Index 
 
+- transporters
+  - (2014) - Chemoresistance and Chemosensitivity: [The role of reduced intracellular concentrations of active drugs in the lack of response to anticancer chemotherapy](https://doi.org/10.1038/APS.2013.131) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24317012))
+
+  - (2020) - Cholangiocarcinoma: [Plasma Membrane Transporters as Biomarkers and Molecular Targets in Cholangiocarcinoma](https://doi.org/10.3390/CELLS9020498) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32098199))
 - ICTs
   - (2014) - Angiogenesis: [Functional properties of ion channels and transporters in tumour vascularization](https://doi.org/10.1098/RSTB.2013.0103) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493751))
 
@@ -75,8 +79,3 @@
 
   - (2021) - Tumor Microenvironment: [Effects of the Tumor Environment on Ion Channels: Implication for Breast Cancer Progression](https://doi.org/10.1007/112_2020_19) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32761457))
   - (2022) - Ion channel inhibitors as anticancer therapeutics: [Targeting Ion Channels for Cancer Treatment: Current Progress and Future Challenges](https://doi.org/10.1007/112_2020_46) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32865696))
-
-- transporters
-  - (2014) - Chemoresistance and Chemosensitivity: [The role of reduced intracellular concentrations of active drugs in the lack of response to anticancer chemotherapy](https://doi.org/10.1038/APS.2013.131) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24317012))
-
-  - (2020) - Cholangiocarcinoma: [Plasma Membrane Transporters as Biomarkers and Molecular Targets in Cholangiocarcinoma](https://doi.org/10.3390/CELLS9020498) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32098199))
