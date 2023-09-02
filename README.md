@@ -1,14 +1,16 @@
 # ICT::bib
 
+<p align="center">
+    <img src="./code/logo-small.png" width = 250>
+</p>
+
 This repository attempts to collect the current works regarding the Transportome, defined as the collection of all proteins present in the cell membrane surface that allow the passage of molecules through the membrane itself.
 
 If you use this repository for your research, please cite:
 
 > Coming soon!
 
-<div style="display: flex; align-items: center;">
-  <img src="./code/logo-small.png" alt="ICT::bib logo" width="250" style="margin-right: 20px;" />
-  <!-- TopAnchor -->
+## ICT::bib facts
 
 | Category | Entries |
 | -------- |:-------:|
@@ -16,9 +18,6 @@ If you use this repository for your research, please cite:
 | Cancer Reviews | 40 |
 | Non-cancer Reviews | 43 |
 | **Total** | **139** |
-
-  <!-- BottomAnchor -->
-</div>
 
 ## Library Structure
 

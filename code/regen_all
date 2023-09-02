@@ -31,8 +31,8 @@ echo "Removal completed!"
 
 # ------------------------------------------------------------------------------
 
-start="<!-- TopAnchor -->"
-end="<!-- BottomAnchor -->"
+start="## ICT::bib facts"
+end="## Library Structure"
 # Remove previous tables
 sed -i "/${start}/,/${end}/{/${start}/!{/${end}/!d}}" ../README.md
 
