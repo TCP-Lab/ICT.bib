@@ -10,14 +10,18 @@ If you use this repository for your research, please cite:
 
 > Coming soon!
 
-## ICT::bib facts
+<!--FactsTopAnchor-->
+## Main Facts
 
 | Category | Entries |
 | -------- |:-------:|
-| Research Articles | 56 |
-| Cancer Reviews | 40 |
-| Non-cancer Reviews | 43 |
+| Transportome Research Articles | 56 |
+| Transportome Reviews: Cancer | 40 |
+| Transportome Reviews: Non-cancer  | 43 |
+|           |              |
 | **Total** | **139** |
+
+<!--FactsBottomAnchor-->
 
 ## Library Structure
 
