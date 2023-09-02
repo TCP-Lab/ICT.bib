@@ -14,6 +14,7 @@ sleep 1
 
 echo "Removing library..."
 rm -rf ../Library/*
+echo "Removal completed!"
 
 echo "Regenerating 'Reviews/Cancer' library..."
 mkdir -p ../Library/Reviews/Cancer
@@ -27,7 +28,7 @@ echo "Regenerating 'Articles' library..."
 mkdir "../Library/Research Articles"
 ./regen_lib.py ./source_data/library.bib ./source_data/articles.csv "../Library/Research Articles/"
 
-echo "Removal completed!"
+echo "Regeneration completed!"
 
 # ------------------------------------------------------------------------------
 

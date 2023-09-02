@@ -5,7 +5,7 @@
 - **Macro-area**: Cancer Therapy
 - **Topic**: Chemoresistance and Chemosensitivity
 - **Year**: 2014
-- **Transportome layer investigated**: transporters
+- **Transportome layer investigated**: Transporters
 
 - References:
   - Journal: Acta pharmacologica Sinica

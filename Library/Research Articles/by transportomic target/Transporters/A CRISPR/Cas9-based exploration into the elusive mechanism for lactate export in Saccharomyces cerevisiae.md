@@ -5,7 +5,7 @@
 - **Macro-area**: Yeasts and Fungi
 - **Topic**: Saccharomyces cerevisiae
 - **Year**: 2017
-- **Transportome layer investigated**: Transporter
+- **Transportome layer investigated**: Transporters
 
 - References:
   - Journal: FEMS Yeast Research
