@@ -12,6 +12,13 @@ If you use this repository for your research, please cite:
 
 ## ICT::bib facts
 
+| Category | Entries |
+| -------- |:-------:|
+| Research Articles | 56 |
+| Cancer Reviews | 40 |
+| Non-cancer Reviews | 43 |
+| **Total** | **139** |
+
 ## Library Structure
 
 The library (accessible in `\Library\`) is divided into two different *sections*:
