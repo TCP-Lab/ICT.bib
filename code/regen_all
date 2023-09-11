@@ -1,4 +1,4 @@
-#!/usr/bin/env zsh
+#!/usr/bin/env bash
 set -e
 
 echo "Removing library in 5....."
@@ -14,6 +14,7 @@ sleep 1
 
 echo "Removing library..."
 rm -rf ../Library/*
+echo "Removal completed!"
 
 echo "Regenerating 'Reviews/Cancer' library..."
 mkdir -p ../Library/Reviews/Cancer
@@ -27,4 +28,49 @@ echo "Regenerating 'Articles' library..."
 mkdir "../Library/Research Articles"
 ./regen_lib.py ./source_data/library.bib ./source_data/articles.csv "../Library/Research Articles/"
 
-echo "Done!"
+echo "Regeneration completed!"
+
+# ------------------------------------------------------------------------------
+
+start="<!--FactsTopAnchor-->"
+end="<!--FactsBottomAnchor-->"
+# Remove any previous tables (clear lines between 'start' and 'end' tags, preserving tags)
+sed -i "/${start}/,/${end}/{/${start}/!{/${end}/!d}}" ../README.md
+
+# Define categories through arrays
+categories=("Transportome Research Articles" \
+	"Transportome Reviews: Cancer" \
+	"Transportome Reviews: Non-cancer ")
+file_names=("articles" \
+	"review_cancer" \
+	"review_noncancer")
+entries=()
+
+# Get numbers
+cat_num=${#categories[@]}
+total=0
+for ((i=0; i<cat_num; i++)); do
+	# Use $(wc -l < file.txt) instead of $(wc -l file.txt)
+	# to print just the number of lines without file name
+	entries+=($(($(wc -l < "./source_data/${file_names[$i]}.csv") - 1)))
+	((total+=entries[$i]))
+done
+
+# Append text string to README.md, just below the 'start' tag
+function _send2README {
+	echo "$1" | sed -i "/${start}/r /dev/stdin" ../README.md
+}
+
+# Append to README.md (building table upside-down)
+_send2README
+_send2README "| **Total** | **${total}** |"
+_send2README "|           |              |"
+for ((i=cat_num-1; i>=0; i--)); do
+	_send2README "| ${categories[$i]} | ${entries[$i]} |"
+done
+_send2README "| -------- |:-------:|"
+_send2README "| Category | Entries |"
+_send2README
+_send2README "## Main Facts"
+
+echo "README.md updated!"

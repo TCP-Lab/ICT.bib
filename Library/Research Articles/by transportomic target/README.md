@@ -1,9 +1,5 @@
 # Index 
 
-- SLCs
-  - (2015) - Nephron solute carrier profiling: [Stem Cells and Fluid Flow Drive Cyst Formation in an Invertebrate Excretory Organ](https://doi.org/10.7554/eLife.07405) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26057828))
-  - (2021) - Nephron solute carrier profiling: ["SLC-omics" of the Kidney: Solute Transporters along the Nephron](https://doi.org/10.1152/ajpcell.00197.2021) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34191628))
-
 - Ion Channels
   - (2005) - Bone Marrow Mesenchymal Stem Cells: [Characterization of ionic currents in human mesenchymal stem cells from bone marrow](https://doi.org/10.1634/STEMCELLS.2004-0213) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/15749932))
 
@@ -88,8 +84,10 @@
 
   - (2023) - Rust Fungi (Pucciniales): [A Remarkable Expansion of Oligopeptide Transporter Genes in Rust Fungi (Pucciniales) Suggests a Specialization in Nutrient Acquisition for Obligate Biotrophy](https://doi.org/10.1094/PHYTO-04-22-0128-R) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/36044359))
 
-- Transporter
-  - (2017) - Saccharomyces cerevisiae: [A CRISPR/Cas9-based exploration into the elusive mechanism for lactate export in Saccharomyces cerevisiae](https://doi.org/10.1093/femsyr/fox085) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/29145596))
+- SLCs
+  - (2015) - Nephron solute carrier profiling: [Stem Cells and Fluid Flow Drive Cyst Formation in an Invertebrate Excretory Organ](https://doi.org/10.7554/eLife.07405) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26057828))
+  - (2021) - Nephron solute carrier profiling: ["SLC-omics" of the Kidney: Solute Transporters along the Nephron](https://doi.org/10.1152/ajpcell.00197.2021) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34191628))
+
 - Transporters
   - (2006) - Sinorhizobium meliloti: [Mapping the Sinorhizobium Meliloti 1021 Solute-Binding Protein-Dependent Transportome](https://doi.org/10.1073/pnas.0606673103) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/17101990))
   - (2008) - Candida albicans: [MFS transportome of the human pathogenic yeast Candida albicans.](https://doi.org/10.1186/1471-2164-9-579) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/19055746))
@@ -105,6 +103,8 @@
   - (2016) - Chemosensitivity and Chemoresistance: [Pharmacogenomic analyzis of the responsiveness of gastrointestinal tumor cell lines to drug therapy: A transportome approach](https://doi.org/10.1016/J.PHRS.2016.09.007) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27620070))
 
   - (2017) - Nitrogen starvation: [Transcriptome analysis of the populus trichocarpa-rhizophagus irregularis mycorrhizal symbiosis: Regulation of plant and fungal transportomes under nitrogen starvation](https://doi.org/10.1093/pcp/pcx044) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/28387868))
+
+  - (2017) - Saccharomyces cerevisiae: [A CRISPR/Cas9-based exploration into the elusive mechanism for lactate export in Saccharomyces cerevisiae](https://doi.org/10.1093/femsyr/fox085) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/29145596))
 
   - (2018) - Candida glabrata: [ABC transportome inventory of human pathogenic yeast Candida glabrata: Phylogenetic and expression analysis](https://doi.org/10.1371/journal.pone.0202993) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/30153284))
 

@@ -1,6 +1,6 @@
 # Index 
 
-- transporters
+- Transporters
   - (2014) - Chemoresistance and Chemosensitivity: [The role of reduced intracellular concentrations of active drugs in the lack of response to anticancer chemotherapy](https://doi.org/10.1038/APS.2013.131) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24317012))
 
   - (2020) - Cholangiocarcinoma: [Plasma Membrane Transporters as Biomarkers and Molecular Targets in Cholangiocarcinoma](https://doi.org/10.3390/CELLS9020498) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32098199))

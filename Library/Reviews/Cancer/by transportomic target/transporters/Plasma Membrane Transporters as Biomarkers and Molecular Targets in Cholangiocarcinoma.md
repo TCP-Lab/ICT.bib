@@ -5,7 +5,7 @@
 - **Macro-area**: GI cancer
 - **Topic**: Cholangiocarcinoma
 - **Year**: 2020
-- **Transportome layer investigated**: transporters
+- **Transportome layer investigated**: Transporters
 
 - References:
   - Journal: Cells
