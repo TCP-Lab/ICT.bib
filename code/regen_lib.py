@@ -165,6 +165,10 @@ def load_bib(stream: io.StringIO):
     def customize(record):
         record = bibx.customization.convert_to_unicode(record)
 
+        # Replace slashes with the U+2215 division symbol in 'title' field
+        if 'title' in record:
+            record['title'] = record['title'].replace('/', '\u2215')
+
         return record
 
     parser = bibx.bparser.BibTexParser(common_strings=True, customization=customize)
