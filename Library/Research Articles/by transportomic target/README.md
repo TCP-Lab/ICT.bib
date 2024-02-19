@@ -1,26 +1,8 @@
 # Index 
 
-- Ion Channels
-  - (2005) - Bone Marrow Mesenchymal Stem Cells: [Characterization of ionic currents in human mesenchymal stem cells from bone marrow](https://doi.org/10.1634/STEMCELLS.2004-0213) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/15749932))
-
-  - (2006) - Bone Marrow Mesenchymal Stem Cells: [Ion channels in mesenchymal stem cells from rat bone marrow](https://doi.org/10.1634/STEMCELLS.2005-0307) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/16484345))
-
-  - (2007) - Heart Development: [Large-scale analysis of ion channel gene expression in the mouse heart during perinatal development](https://doi.org/10.1152/physiolgenomics.00163.2006) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/16985003))
-
-  - (2013) - Markers for Breast cancer: [Expression profiling of ion channel genes predicts clinical outcome in breast cancer](https://doi.org/10.1186/1476-4598-12-106) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24053408))
-
-  - (2013) - Pain sensation through DRG and TG: [Comprehensive RNA-Seq expression analysis of sensory ganglia with a focus on ion channels and GPCRs in Trigeminal ganglia](https://doi.org/10.1371/JOURNAL.PONE.0079523) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24260241))
-
-  - (2014) - Markers for Lung cancer: [Ion channel gene expression in lung adenocarcinoma: potential role in prognosis and diagnosis](https://doi.org/10.1371/JOURNAL.PONE.0086569) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24466154))
-
-  - (2015) - Markers for Glioma: [Ion channel gene expression predicts survival in glioma patients](https://doi.org/10.1038/SREP11593) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26235283))
-
-  - (2016) - Ion channelome Profiling: [Transcriptomic analysis of the ion channelome of human platelets and megakaryocytic cell lines](https://doi.org/10.1160/TH15-11-0891) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27277069))
-
-  - (2019) - Drosophila Melanogaster Wing Development: [Ion Channel Contributions to Wing Development in Drosophila melanogaster](https://doi.org/10.1534/G3.119.400028) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/30733380))
-
-  - (2020) - Regenerative patterning in axolotl limbs: [Precise Control of Ion Channel and Gap Junction Expression Is Required for Patterning of the Regenerating Axolotl Limb](https://doi.org/10.1387/ijdb.200114jw) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33200809))
-  - (2021) - Lymnaea stagnalis CNS: [Ion channel profiling of the Lymnaea stagnalis ganglia via transcriptome analysis](https://doi.org/10.1186/S12864-020-07287-2) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33407100))
+- SLCs
+  - (2015) - Nephron solute carrier profiling: [Stem Cells and Fluid Flow Drive Cyst Formation in an Invertebrate Excretory Organ](https://doi.org/10.7554/eLife.07405) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26057828))
+  - (2021) - Nephron solute carrier profiling: ["SLC-omics" of the Kidney: Solute Transporters along the Nephron](https://doi.org/10.1152/ajpcell.00197.2021) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34191628))
 
 - ICTs
   - (2003) - Intestine absorptive capacity: [Messenger RNA expression of transporter and ion channel genes in undifferentiated and differentiated Caco-2 cells compared to human intestines](https://doi.org/10.1023/A:1022282221530) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/12608530))
@@ -84,9 +66,27 @@
 
   - (2023) - Rust Fungi (Pucciniales): [A Remarkable Expansion of Oligopeptide Transporter Genes in Rust Fungi (Pucciniales) Suggests a Specialization in Nutrient Acquisition for Obligate Biotrophy](https://doi.org/10.1094/PHYTO-04-22-0128-R) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/36044359))
 
-- SLCs
-  - (2015) - Nephron solute carrier profiling: [Stem Cells and Fluid Flow Drive Cyst Formation in an Invertebrate Excretory Organ](https://doi.org/10.7554/eLife.07405) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26057828))
-  - (2021) - Nephron solute carrier profiling: ["SLC-omics" of the Kidney: Solute Transporters along the Nephron](https://doi.org/10.1152/ajpcell.00197.2021) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34191628))
+- Ion Channels
+  - (2005) - Bone Marrow Mesenchymal Stem Cells: [Characterization of ionic currents in human mesenchymal stem cells from bone marrow](https://doi.org/10.1634/STEMCELLS.2004-0213) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/15749932))
+
+  - (2006) - Bone Marrow Mesenchymal Stem Cells: [Ion channels in mesenchymal stem cells from rat bone marrow](https://doi.org/10.1634/STEMCELLS.2005-0307) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/16484345))
+
+  - (2007) - Heart Development: [Large-scale analysis of ion channel gene expression in the mouse heart during perinatal development](https://doi.org/10.1152/physiolgenomics.00163.2006) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/16985003))
+
+  - (2013) - Markers for Breast cancer: [Expression profiling of ion channel genes predicts clinical outcome in breast cancer](https://doi.org/10.1186/1476-4598-12-106) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24053408))
+
+  - (2013) - Pain sensation through DRG and TG: [Comprehensive RNA-Seq expression analysis of sensory ganglia with a focus on ion channels and GPCRs in Trigeminal ganglia](https://doi.org/10.1371/JOURNAL.PONE.0079523) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24260241))
+
+  - (2014) - Markers for Lung cancer: [Ion channel gene expression in lung adenocarcinoma: potential role in prognosis and diagnosis](https://doi.org/10.1371/JOURNAL.PONE.0086569) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24466154))
+
+  - (2015) - Markers for Glioma: [Ion channel gene expression predicts survival in glioma patients](https://doi.org/10.1038/SREP11593) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26235283))
+
+  - (2016) - Ion channelome Profiling: [Transcriptomic analysis of the ion channelome of human platelets and megakaryocytic cell lines](https://doi.org/10.1160/TH15-11-0891) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27277069))
+
+  - (2019) - Drosophila Melanogaster Wing Development: [Ion Channel Contributions to Wing Development in Drosophila melanogaster](https://doi.org/10.1534/G3.119.400028) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/30733380))
+
+  - (2020) - Regenerative patterning in axolotl limbs: [Precise Control of Ion Channel and Gap Junction Expression Is Required for Patterning of the Regenerating Axolotl Limb](https://doi.org/10.1387/ijdb.200114jw) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33200809))
+  - (2021) - Lymnaea stagnalis CNS: [Ion channel profiling of the Lymnaea stagnalis ganglia via transcriptome analysis](https://doi.org/10.1186/S12864-020-07287-2) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33407100))
 
 - Transporters
   - (2006) - Sinorhizobium meliloti: [Mapping the Sinorhizobium Meliloti 1021 Solute-Binding Protein-Dependent Transportome](https://doi.org/10.1073/pnas.0606673103) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/17101990))

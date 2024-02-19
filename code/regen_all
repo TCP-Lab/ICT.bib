@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 set -e
 
-echo "Removing library in 5....."
+echo "Removing library in"
+echo "5....."
 sleep 1
 echo "4...."
 sleep 1
@@ -21,17 +22,16 @@ mkdir -p ../Library/Reviews/Cancer
 ./regen_lib.py ./source_data/library.bib ./source_data/review_cancer.csv "../Library/Reviews/Cancer"
 
 echo "Regenerating 'Reviews/Non Cancer' library..."
-mkdir -p "../Library/Reviews/Non cancer"
-./regen_lib.py ./source_data/library.bib ./source_data/review_noncancer.csv "../Library/Reviews/Non cancer/"
+mkdir -p "../Library/Reviews/Non Cancer"
+./regen_lib.py ./source_data/library.bib ./source_data/review_noncancer.csv "../Library/Reviews/Non Cancer/"
 
 echo "Regenerating 'Articles' library..."
 mkdir "../Library/Research Articles"
 ./regen_lib.py ./source_data/library.bib ./source_data/articles.csv "../Library/Research Articles/"
 
-echo "Regeneration completed!"
-
 # ------------------------------------------------------------------------------
 
+echo "Updating the 'Main Facts' table in the README..."
 start="<!--FactsTopAnchor-->"
 end="<!--FactsBottomAnchor-->"
 # Remove any previous tables (clear lines between 'start' and 'end' tags, preserving tags)
@@ -40,7 +40,7 @@ sed -i "/${start}/,/${end}/{/${start}/!{/${end}/!d}}" ../README.md
 # Define categories through arrays
 categories=("Transportome Research Articles" \
 	"Transportome Reviews: Cancer" \
-	"Transportome Reviews: Non-cancer ")
+	"Transportome Reviews: Non-Cancer ")
 file_names=("articles" \
 	"review_cancer" \
 	"review_noncancer")
@@ -61,7 +61,7 @@ function _send2README {
 	echo "$1" | sed -i "/${start}/r /dev/stdin" ../README.md
 }
 
-# Append to README.md (building table upside-down)
+# Append to README.md (build the table upside-down)
 _send2README
 _send2README "| **Total** | **${total}** |"
 _send2README "|           |              |"
@@ -73,4 +73,5 @@ _send2README "| Category | Entries |"
 _send2README
 _send2README "## Main Facts"
 
-echo "README.md updated!"
+echo "README.md updated."
+echo "ICT::bib regeneration completed!"

@@ -1,9 +1,5 @@
 # Index 
 
-- Apoptosis
-  - (2014) - Life/death decisions in cancer cells : [Ion channels and apoptosis in cancer](https://doi.org/10.1098/RSTB.2013.0104) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493752))
-
-  - (2015) - Life/death decisions in cancer cells : [Ion channels in the regulation of apoptosis](https://doi.org/10.1016/J.BBAMEM.2014.10.030) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25450339))
 - Brain Tumor
   - (2016) - Metastasis: [A role for ion channels in perivascular glioma invasion](https://doi.org/10.1007/S00249-016-1154-X) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27424110))
   - (2021) - Glioma Malignancy: [Ion Channels in Glioma Malignancy](https://doi.org/10.1007/112_2020_44) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32930879))
@@ -30,6 +26,28 @@
 
   - (2021) - Cancer progression and therapy: [Ion Channels Orchestrate Pancreatic Ductal Adenocarcinoma Progression and Therapy](https://doi.org/10.3389/FPHAR.2020.586599) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33841132))
 
+- Melanoma
+  - (2021) - Cancer progression and therapy: [Membrane Transporters and Channels in Melanoma](https://doi.org/10.1007/112_2020_17) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32737752))
+- Breast Cancer
+  - (2021) - Tumor Microenvironment: [Effects of the Tumor Environment on Ion Channels: Implication for Breast Cancer Progression](https://doi.org/10.1007/112_2020_19) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32761457))
+
+  - (2022) - Tumor Microenvironment: [Ion Channels, Transporters, and Sensors Interact with the Acidic Tumor Microenvironment to Modify Cancer Progression](https://doi.org/10.1007/112_2021_63) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34291319))
+- Apoptosis
+  - (2014) - Life/death decisions in cancer cells : [Ion channels and apoptosis in cancer](https://doi.org/10.1098/RSTB.2013.0104) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493752))
+
+  - (2015) - Life/death decisions in cancer cells : [Ion channels in the regulation of apoptosis](https://doi.org/10.1016/J.BBAMEM.2014.10.030) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25450339))
+- Head and Neck
+  - (2021) - Clinical potential: [Ion Channel Dysregulation in Head and Neck Cancers: Perspectives for Clinical Application](https://doi.org/10.1007/112_2020_38) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32789787))
+- Lung Cancer
+  - (2021) - Cancer progression and therapy: [Ion Channels in Lung Cancer](https://doi.org/10.1007/112_2020_29) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32772273))
+
+  - (2021) - Cancer progression and therapy: [Targeting ion channels for the treatment of lung cancer](https://doi.org/10.1016/J.BBCAN.2021.188629) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34610420))
+- Prostate Cancer
+  - (2021) - Cell population-specific screening: [Ion Channel Profiling in Prostate Cancer: Toward Cell Population-Specific Screening](https://doi.org/10.1007/112_2020_22) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32737754))
+- Ovarian Cancer
+  - (2013) - Clinical potential: [Ovarian cancer: Ion channel and aquaporin expression as novel targets of clinical potential](https://doi.org/10.1016/J.EJCA.2013.03.016) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/23683551))
+
+  - (2021) - Cancer Therapy: [Emerging Roles for Ion Channels in Ovarian Cancer: Pathomechanisms and Pharmacological Treatment](https://doi.org/10.3390/CANCERS13040668) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33562306))
 - Cancer Therapy
   - (2014) - Chemoresistance and Chemosensitivity: [Ion channels and transporters in the development of drug resistance in cancer cells](https://doi.org/10.1098/RSTB.2013.0109) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493757))
 
@@ -48,12 +66,6 @@
   - (2022) - Therapeutic potential: [Ion Transporting Proteins and Cancer: Progress and Perspectives](https://doi.org/10.1007/112_2021_66) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/35018530))
 
   - (2022) - Therapeutic potential: [Novel Therapeutic Approaches of Ion Channels and Transporters in Cancer](https://doi.org/10.1007/112_2020_28) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32715321))
-- Melanoma
-  - (2021) - Cancer progression and therapy: [Membrane Transporters and Channels in Melanoma](https://doi.org/10.1007/112_2020_17) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32737752))
-- Prostate Cancer
-  - (2021) - Cell population-specific screening: [Ion Channel Profiling in Prostate Cancer: Toward Cell Population-Specific Screening](https://doi.org/10.1007/112_2020_22) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32737754))
-- Head and Neck
-  - (2021) - Clinical potential: [Ion Channel Dysregulation in Head and Neck Cancers: Perspectives for Clinical Application](https://doi.org/10.1007/112_2020_38) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32789787))
 - GI cancer
   - (2019) - Colorectal cancer (CRC): [Role of ion channels in gastrointestinal cancer](https://doi.org/10.3748/WJG.V25.I38.5732) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31636470))
 
@@ -67,16 +79,3 @@
   - (2021) - GI Tract Cancer: [How Dysregulated Ion Channels and Transporters Take a Hand in Esophageal, Liver, and Colorectal Cancer](https://doi.org/10.1007/112_2020_41) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32875386))
 
   - (2021) - Gastric cancer: [Alteration and dysfunction of ion channels/transporters in a hypoxic microenvironment results in the development and progression of gastric cancer](https://doi.org/10.1007/S13402-021-00604-1) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33856653))
-
-- Breast Cancer
-  - (2021) - Tumor Microenvironment: [Effects of the Tumor Environment on Ion Channels: Implication for Breast Cancer Progression](https://doi.org/10.1007/112_2020_19) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32761457))
-
-  - (2022) - Tumor Microenvironment: [Ion Channels, Transporters, and Sensors Interact with the Acidic Tumor Microenvironment to Modify Cancer Progression](https://doi.org/10.1007/112_2021_63) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34291319))
-- Lung Cancer
-  - (2021) - Cancer progression and therapy: [Ion Channels in Lung Cancer](https://doi.org/10.1007/112_2020_29) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32772273))
-
-  - (2021) - Cancer progression and therapy: [Targeting ion channels for the treatment of lung cancer](https://doi.org/10.1016/J.BBCAN.2021.188629) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34610420))
-- Ovarian Cancer
-  - (2013) - Clinical potential: [Ovarian cancer: Ion channel and aquaporin expression as novel targets of clinical potential](https://doi.org/10.1016/J.EJCA.2013.03.016) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/23683551))
-
-  - (2021) - Cancer Therapy: [Emerging Roles for Ion Channels in Ovarian Cancer: Pathomechanisms and Pharmacological Treatment](https://doi.org/10.3390/CANCERS13040668) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33562306))
