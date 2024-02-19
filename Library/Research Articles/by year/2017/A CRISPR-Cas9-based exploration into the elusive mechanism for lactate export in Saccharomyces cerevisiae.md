@@ -1,4 +1,4 @@
-# A CRISPR∕Cas9-based exploration into the elusive mechanism for lactate export in Saccharomyces cerevisiae
+# A CRISPR/Cas9-based exploration into the elusive mechanism for lactate export in Saccharomyces cerevisiae
 
 > By Mans, Robert and Hassing, Else Jasmijn and Wijsman, Melanie and Giezekamp, Annabel and Pronk, Jack T. and Daran, Jean Marc and van Maris, Antonius J.A.
 

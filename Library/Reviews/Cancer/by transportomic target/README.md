@@ -67,7 +67,7 @@
 
   - (2021) - GI Tract Cancer: [How Dysregulated Ion Channels and Transporters Take a Hand in Esophageal, Liver, and Colorectal Cancer](https://doi.org/10.1007/112_2020_41) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32875386))
 
-  - (2021) - Gastric cancer: [Alteration and dysfunction of ion channels∕transporters in a hypoxic microenvironment results in the development and progression of gastric cancer](https://doi.org/10.1007/S13402-021-00604-1) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33856653))
+  - (2021) - Gastric cancer: [Alteration and dysfunction of ion channels/transporters in a hypoxic microenvironment results in the development and progression of gastric cancer](https://doi.org/10.1007/S13402-021-00604-1) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33856653))
 
   - (2022) - Chemotherapy Adverse Effects: [Contribution of membrane transporters to chemotherapy-induced cardiotoxicity](https://doi.org/10.1111/BCPT.13635) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34237188))
 

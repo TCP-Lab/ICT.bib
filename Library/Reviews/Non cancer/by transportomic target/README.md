@@ -31,7 +31,7 @@
 
   - (2003) - Freshwater fish: [Channels, pumps, and exchangers in the gill and kidney of freshwater fishes: their role in ionic and acid-base regulation](https://doi.org/10.1002/JEZ.A.10309) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/14598386))
 
-  - (2004) - Inner ear and kidney: [Genetic disorders of transporters∕channels in the inner ear and their relation to the kidney](https://doi.org/10.1007/S00467-004-1626-6) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/15365806))
+  - (2004) - Inner ear and kidney: [Genetic disorders of transporters/channels in the inner ear and their relation to the kidney](https://doi.org/10.1007/S00467-004-1626-6) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/15365806))
 
   - (2007) - Gill of teleost fishes: [New insights into fish ion regulation and mitochondrion-rich cells](https://doi.org/10.1016/J.CBPA.2007.06.416) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/17689996))
 
@@ -78,11 +78,11 @@
 
   - (2022) - Astenozoosperimia in mouse models: [Sperm Ion Transporters and Channels in Human Asthenozoospermia: Genetic Etiology, Lessons from Animal Models, and Clinical Perspectives](https://doi.org/10.3390/IJMS23073926) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/35409285))
 
-  - (2022) - Gastric mucosal injury: [Expression alteration and dysfunction of ion channels∕transporters in the parietal cells induces gastric diffused mucosal injury](https://doi.org/10.1016/J.BIOPHA.2022.112660) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/35276516))
+  - (2022) - Gastric mucosal injury: [Expression alteration and dysfunction of ion channels/transporters in the parietal cells induces gastric diffused mucosal injury](https://doi.org/10.1016/J.BIOPHA.2022.112660) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/35276516))
 
   - (2022) - New therapeutic concepts: [Ion Channels and Transporters as Therapeutic Agents: From Biomolecules to Supramolecular Medicinal Chemistry](https://doi.org/10.3390/BIOMEDICINES10040885) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/35453638))
 
-- ABCs
-  - (2011) - Arabidopsis thaliana: [Plant ABC Transporters](https://doi.org/10.1199/TAB.0153) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/22303277))
 - Transporters
   - (2015) - Trypanosoma brucei: [Transport proteins determine drug sensitivity and resistance in a protozoan parasite, Trypanosoma brucei](https://doi.org/10.3389/FPHAR.2015.00032) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25814953))
+- ABCs
+  - (2011) - Arabidopsis thaliana: [Plant ABC Transporters](https://doi.org/10.1199/TAB.0153) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/22303277))

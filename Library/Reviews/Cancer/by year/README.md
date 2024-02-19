@@ -1,17 +1,5 @@
 # Index 
 
-- 2020
-  - Cholangiocarcinoma: [Plasma Membrane Transporters as Biomarkers and Molecular Targets in Cholangiocarcinoma](https://doi.org/10.3390/CELLS9020498) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32098199))
-
-  - Colorectal cancer (CRC): [Physiological and pathophysiological role of ion channels and transporters in the colorectum and colorectal cancer](https://doi.org/10.1111/JCMM.15600) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32662230))
-
-  - Gastric cancer: [Physiological Significance of Ion Transporters and Channels in the Stomach and Pathophysiological Relevance in Gastric Cancer](https://doi.org/10.1155/2020/2869138) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32104192))
-
-  - PDAC and healthy pancreas: [Ion Channel Signature in Healthy Pancreas and Pancreatic Ductal Adenocarcinoma](https://doi.org/10.3389/FPHAR.2020.568993) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33178018))
-- 2016
-  - Angiogenesis: [Involvement of ion channels and transporters in carcinoma angiogenesis and metastasis](https://doi.org/10.1152/AJPCELL.00218.2015) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26791487))
-
-  - Metastasis: [A role for ion channels in perivascular glioma invasion](https://doi.org/10.1007/S00249-016-1154-X) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27424110))
 - 2022
   - Chemotherapy Adverse Effects: [Contribution of membrane transporters to chemotherapy-induced cardiotoxicity](https://doi.org/10.1111/BCPT.13635) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34237188))
 
@@ -26,10 +14,6 @@
   - Therapeutic potential: [Novel Therapeutic Approaches of Ion Channels and Transporters in Cancer](https://doi.org/10.1007/112_2020_28) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32715321))
 
   - Tumor Microenvironment: [Ion Channels, Transporters, and Sensors Interact with the Acidic Tumor Microenvironment to Modify Cancer Progression](https://doi.org/10.1007/112_2021_63) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34291319))
-- 2019
-  - Colorectal cancer (CRC): [Role of ion channels in gastrointestinal cancer](https://doi.org/10.3748/WJG.V25.I38.5732) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31636470))
-
-  - Liver Cancer: [Role of transportome in the pharmacogenomics of hepatocellular carcinoma and hepatobiliary cancer](https://doi.org/10.2217/PGS-2019-0033) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31486734))
 - 2021
   - Cancer Hallmarks: [Transportome Malfunctions and the Hallmarks of Pancreatic Cancer](https://doi.org/10.1007/112_2020_20) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32770395))
 
@@ -49,7 +33,7 @@
 
   - GI Tract Cancer: [How Dysregulated Ion Channels and Transporters Take a Hand in Esophageal, Liver, and Colorectal Cancer](https://doi.org/10.1007/112_2020_41) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32875386))
 
-  - Gastric cancer: [Alteration and dysfunction of ion channels∕transporters in a hypoxic microenvironment results in the development and progression of gastric cancer](https://doi.org/10.1007/S13402-021-00604-1) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33856653))
+  - Gastric cancer: [Alteration and dysfunction of ion channels/transporters in a hypoxic microenvironment results in the development and progression of gastric cancer](https://doi.org/10.1007/S13402-021-00604-1) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33856653))
 
   - Glioma Malignancy: [Ion Channels in Glioma Malignancy](https://doi.org/10.1007/112_2020_44) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32930879))
 
@@ -66,6 +50,14 @@
   - Metastasis: [Ion channels and transporters in metastasis](https://doi.org/10.1016/J.BBAMEM.2014.11.012) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25445667))
 
   - Tumor development: [Cancer as a channelopathy: ion channels and pumps in tumor development and progression](https://doi.org/10.3389/FNCEL.2015.00086) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/25852478))
+- 2016
+  - Angiogenesis: [Involvement of ion channels and transporters in carcinoma angiogenesis and metastasis](https://doi.org/10.1152/AJPCELL.00218.2015) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26791487))
+
+  - Metastasis: [A role for ion channels in perivascular glioma invasion](https://doi.org/10.1007/S00249-016-1154-X) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/27424110))
+- 2019
+  - Colorectal cancer (CRC): [Role of ion channels in gastrointestinal cancer](https://doi.org/10.3748/WJG.V25.I38.5732) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31636470))
+
+  - Liver Cancer: [Role of transportome in the pharmacogenomics of hepatocellular carcinoma and hepatobiliary cancer](https://doi.org/10.2217/PGS-2019-0033) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/31486734))
 - 2014
   - Angiogenesis: [Functional properties of ion channels and transporters in tumour vascularization](https://doi.org/10.1098/RSTB.2013.0103) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493751))
 
@@ -80,3 +72,11 @@
   - Metastasis: [Ion transport and cancer: from initiation to metastasis](https://doi.org/10.1098/RSTB.2013.0092) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493741))
 
   - Therapeutic potential: [Ion channels in cancer: future perspectives and clinical potential](https://doi.org/10.1098/RSTB.2013.0108) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493756))
+- 2020
+  - Cholangiocarcinoma: [Plasma Membrane Transporters as Biomarkers and Molecular Targets in Cholangiocarcinoma](https://doi.org/10.3390/CELLS9020498) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32098199))
+
+  - Colorectal cancer (CRC): [Physiological and pathophysiological role of ion channels and transporters in the colorectum and colorectal cancer](https://doi.org/10.1111/JCMM.15600) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32662230))
+
+  - Gastric cancer: [Physiological Significance of Ion Transporters and Channels in the Stomach and Pathophysiological Relevance in Gastric Cancer](https://doi.org/10.1155/2020/2869138) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32104192))
+
+  - PDAC and healthy pancreas: [Ion Channel Signature in Healthy Pancreas and Pancreatic Ductal Adenocarcinoma](https://doi.org/10.3389/FPHAR.2020.568993) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33178018))

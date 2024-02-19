@@ -1,4 +1,4 @@
-# Alteration and dysfunction of ion channels∕transporters in a hypoxic microenvironment results in the development and progression of gastric cancer
+# Alteration and dysfunction of ion channels/transporters in a hypoxic microenvironment results in the development and progression of gastric cancer
 
 > By Chen, Junling and Zhang, Minglin and Ma, Zhiyuan and Yuan, Dumin and Zhu, Jiaxing and Tuo, Biguang and Li, Taolang and Liu, Xuemei
 
