@@ -22,14 +22,12 @@ mkdir -p ../Library/Reviews/Cancer
 ./regen_lib.py ./source_data/library.bib ./source_data/review_cancer.csv "../Library/Reviews/Cancer"
 
 echo "Regenerating 'Reviews/Non Cancer' library..."
-mkdir -p "../Library/Reviews/Non cancer"
+mkdir -p "../Library/Reviews/Non Cancer"
 ./regen_lib.py ./source_data/library.bib ./source_data/review_noncancer.csv "../Library/Reviews/Non Cancer/"
 
 echo "Regenerating 'Articles' library..."
 mkdir "../Library/Research Articles"
 ./regen_lib.py ./source_data/library.bib ./source_data/articles.csv "../Library/Research Articles/"
-
-echo "Regeneration completed!"
 
 # ------------------------------------------------------------------------------
 

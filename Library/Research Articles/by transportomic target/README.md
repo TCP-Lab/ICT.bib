@@ -1,5 +1,9 @@
 # Index 
 
+- SLCs
+  - (2015) - Nephron solute carrier profiling: [Stem Cells and Fluid Flow Drive Cyst Formation in an Invertebrate Excretory Organ](https://doi.org/10.7554/eLife.07405) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26057828))
+  - (2021) - Nephron solute carrier profiling: ["SLC-omics" of the Kidney: Solute Transporters along the Nephron](https://doi.org/10.1152/ajpcell.00197.2021) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34191628))
+
 - Ion Channels
   - (2005) - Bone Marrow Mesenchymal Stem Cells: [Characterization of ionic currents in human mesenchymal stem cells from bone marrow](https://doi.org/10.1634/STEMCELLS.2004-0213) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/15749932))
 
@@ -21,10 +25,6 @@
 
   - (2020) - Regenerative patterning in axolotl limbs: [Precise Control of Ion Channel and Gap Junction Expression Is Required for Patterning of the Regenerating Axolotl Limb](https://doi.org/10.1387/ijdb.200114jw) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33200809))
   - (2021) - Lymnaea stagnalis CNS: [Ion channel profiling of the Lymnaea stagnalis ganglia via transcriptome analysis](https://doi.org/10.1186/S12864-020-07287-2) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33407100))
-
-- SLCs
-  - (2015) - Nephron solute carrier profiling: [Stem Cells and Fluid Flow Drive Cyst Formation in an Invertebrate Excretory Organ](https://doi.org/10.7554/eLife.07405) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/26057828))
-  - (2021) - Nephron solute carrier profiling: ["SLC-omics" of the Kidney: Solute Transporters along the Nephron](https://doi.org/10.1152/ajpcell.00197.2021) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34191628))
 
 - Transporters
   - (2006) - Sinorhizobium meliloti: [Mapping the Sinorhizobium Meliloti 1021 Solute-Binding Protein-Dependent Transportome](https://doi.org/10.1073/pnas.0606673103) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/17101990))

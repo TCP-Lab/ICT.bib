@@ -25,7 +25,7 @@ If you use this repository for your research, please cite
 | -------- |:-------:|
 | Transportome Research Articles | 56 |
 | Transportome Reviews: Cancer | 40 |
-| Transportome Reviews: Non-cancer  | 43 |
+| Transportome Reviews: Non-Cancer  | 43 |
 |           |              |
 | **Total** | **139** |
 
