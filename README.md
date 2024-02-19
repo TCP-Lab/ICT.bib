@@ -9,7 +9,8 @@ the _transportome_, defined as the collection of all the membrane proteins
 responsible for the translocation of any kind of solutes across the lipid
 bilayer.
 
-If you use this repository for your research, please cite:
+If you use this repository for your research, please cite
+[our paper](https://pubmed.ncbi.nlm.nih.gov/37668550/):
 
 > Federico Alessandro Ruffinatti, Giorgia Scarpellino, Giorgia Chinigò,
 > Luca Visentin, Luca Munaron.
@@ -32,13 +33,14 @@ If you use this repository for your research, please cite:
 
 ## Library Structure
 
-The library (accessible in `/Library`) is divided into two different *sections*:
+The library (accessible in `/Library/`) is divided into two different
+*sections*:
 - the `Reviews` section collects all reviews about the transportome;
   - the `Cancer` subsection collects all reviews regarding the transportome in
     cancer;
   - the `Non Cancer` section collects all other reviews;
 - the `Research Articles` section collects all research articles investigating
-  the transportome---or, at least, an entire molecular class of transporters
+  the transportome--or, at least, an entire molecular class of transporters
   (e.g., all SLCs, all ion channels, _etc._).
 
 We manually annotate each article in the library with the following information,
