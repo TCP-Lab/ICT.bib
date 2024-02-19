@@ -1,9 +1,5 @@
 # Index 
 
-- Transporters
-  - (2014) - Chemoresistance and Chemosensitivity: [The role of reduced intracellular concentrations of active drugs in the lack of response to anticancer chemotherapy](https://doi.org/10.1038/APS.2013.131) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24317012))
-
-  - (2020) - Cholangiocarcinoma: [Plasma Membrane Transporters as Biomarkers and Molecular Targets in Cholangiocarcinoma](https://doi.org/10.3390/CELLS9020498) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32098199))
 - ICTs
   - (2014) - Angiogenesis: [Functional properties of ion channels and transporters in tumour vascularization](https://doi.org/10.1098/RSTB.2013.0103) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24493751))
 
@@ -35,7 +31,7 @@
 
   - (2021) - GI Tract Cancer: [How Dysregulated Ion Channels and Transporters Take a Hand in Esophageal, Liver, and Colorectal Cancer](https://doi.org/10.1007/112_2020_41) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32875386))
 
-  - (2021) - Gastric cancer: [Alteration and dysfunction of ion channels/transporters in a hypoxic microenvironment results in the development and progression of gastric cancer](https://doi.org/10.1007/S13402-021-00604-1) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33856653))
+  - (2021) - Gastric cancer: [Alteration and dysfunction of ion channels∕transporters in a hypoxic microenvironment results in the development and progression of gastric cancer](https://doi.org/10.1007/S13402-021-00604-1) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/33856653))
 
   - (2022) - Chemotherapy Adverse Effects: [Contribution of membrane transporters to chemotherapy-induced cardiotoxicity](https://doi.org/10.1111/BCPT.13635) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34237188))
 
@@ -48,6 +44,10 @@
   - (2022) - Therapeutic potential: [Novel Therapeutic Approaches of Ion Channels and Transporters in Cancer](https://doi.org/10.1007/112_2020_28) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32715321))
 
   - (2022) - Tumor Microenvironment: [Ion Channels, Transporters, and Sensors Interact with the Acidic Tumor Microenvironment to Modify Cancer Progression](https://doi.org/10.1007/112_2021_63) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/34291319))
+- Transporters
+  - (2014) - Chemoresistance and Chemosensitivity: [The role of reduced intracellular concentrations of active drugs in the lack of response to anticancer chemotherapy](https://doi.org/10.1038/APS.2013.131) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/24317012))
+
+  - (2020) - Cholangiocarcinoma: [Plasma Membrane Transporters as Biomarkers and Molecular Targets in Cholangiocarcinoma](https://doi.org/10.3390/CELLS9020498) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/32098199))
 - Ion Channels
   - (2013) - Clinical potential: [Ovarian cancer: Ion channel and aquaporin expression as novel targets of clinical potential](https://doi.org/10.1016/J.EJCA.2013.03.016) ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/23683551))
 

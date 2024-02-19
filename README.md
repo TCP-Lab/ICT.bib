@@ -49,8 +49,16 @@ in addition to the standard bibliographical information:
   Cancer", "Cell Motility", "Plants", _etc._);
 - **Topic**: the specific topic the paper covers (e.g. "Evolution", "Intestinal
   Inflammation", _etc._);
-- **Target**: the specific portion of the transportome the paper investigates
-  (e.g., "ICTs", "ion channels", _etc._);
+- **Transportomic Target**: the specific portion (or _layer_) of the
+  transportome investigated in the paper, chosen among the following entries:
+   - `Ion Channels`
+   - `Aquaporins`
+   - `Pores` (= `Ion Channels` AND `Aquaporins`)
+   - `SLCs` (= solute carriers)
+   - `Pumps` (= ATPase pumps)
+   - `ABCs` (= ATP-binding cassette transporters)
+   - `Transporters` (= `SLCs` AND `Pumps` AND `ABCs`)
+   - `ICTs` (= the whole transportome)
 
 Inside each section, the library is organized in four different
 *categorizations*, one for each of the above-mentioned manual annotations, plus
@@ -61,7 +69,7 @@ all papers on that section, sorted by the specific categorization criterion.
 
 By navigating into a subsection (e.g., `/Library/Reviews/Cancer/by year/2022/`)
 you will find one file per publication, with information such as DOI, Journal of
-publication, abstract and more.
+publication, abstract, and more.
 Each subsection also contains one `.library.bib` file with the bibliographical
 information of all the papers in that subsection in `.bib` format, for ease of
 inclusion in bibliography managers.
